@@ -26,18 +26,7 @@ params = {
     ],
     "timezone": "auto"
 }
-test =''
-test =''
-test =''
-test =''
-test =''
-test =''
-test =''
-test =''
-test =''
-test =''
-test =''
-test =''
+
 response = requests.get(url, params=params)
 
 print(response)
