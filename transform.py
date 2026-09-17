@@ -3,43 +3,67 @@ import ast
 
 
 #_____________________________________
-data = pd.read_csv('Bronz/data.csv')
+data = pd.read_csv('Bronz/bronze_data.csv')
 
 #_____________________________________
 # chosing the column we need 
-data = data[['city', 'admin_name', 'weather']]
+meta_data = data[['city', 'admin_name','lat', 'lng', 'daily']]
 
 #_____________________________________
-# transform the weather from str into dict
-daily_info = data['weather'].apply(lambda x: ast.literal_eval(x)['daily'])
+# transform the daily from str into dict
+# check if daily is really a string, if it was a dict literal_eval will throw an error
+daily = meta_data['daily'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x) 
 
 #_____________________________________
 # transform the key, value into column
-daily_info = pd.json_normalize(daily_info)
+daily = pd.json_normalize(daily)
 
 #_____________________________________
 #replace the weather in data with the conlumn from weather->daily
-data = data.drop(columns = 'weather')
-data = pd.concat([data, daily_info], axis=1)
-
-
+meta_data = meta_data.drop(columns = 'daily')
+meta_data = pd.concat([meta_data, daily], axis=1)
 
 #_____________________________________
 #the content of the added columns is a list so we exploded the values => have more rows + get rid of the lists values
-weather_column = daily_info.columns
-exploded_data = data.explode(weather_column.tolist(), ignore_index=True)
+weather_column = daily.columns
+silver_df = meta_data.explode(weather_column.tolist(), ignore_index=True)
+#_____________________________________
+# change the column 'time' to prevent error in db
+# turn the time from str to datetime + chnage forma to adapt to db
+silver_df = silver_df.rename(columns={'time': 'forecast_date'})
+silver_df['forecast_date'] = pd.to_datetime(silver_df['forecast_date'], errors= "coerce") 
 
-# print(test)
-# print(weather_column)
-# print(data)
+#_____________________________________
+# replace the missing dates
+date_offset = silver_df.groupby('city')['forecast_date']\
+    .transform(lambda g: g.groupby((~g.isnull()).cumsum()).cumcount())
+silver_df['forecast_date'] = silver_df.groupby('city')['forecast_date']\
+    .transform(lambda g: g.ffill()) + pd.to_timedelta(date_offset, unit='D')
+silver_df['forecast_date'] = silver_df.groupby('city')['forecast_date'].transform(lambda g: g.bfill())
+
+silver_df["forecast_date"] = silver_df["forecast_date"].dt.strftime('%Y-%m-%d')
+
+#_____________________________________
+# drop duplicated rows
+# we expect to 1 (city, date) not more
+silver_df = silver_df.drop_duplicates(subset=['city', 'forecast_date'])
+
+#_____________________________________
+# turn nueric values from str to numiric
+numeric_cols = [c for c in weather_column if c != 'time']
+for col in numeric_cols:
+    silver_df[col] = pd.to_numeric(silver_df[col], errors='coerce')
+    silver_df[col] = silver_df.groupby('city')[col]\
+                    .transform(lambda g: g.interpolate(method='linear').ffill().bfill())
 
 #_____________________________________
 #save the data as .csv files (saved in Silver)
-data.to_csv('silver_data.csv', index=False)
-exploded_data.to_csv('exploded_data.csv', index=False)
+silver_df.to_csv('Silver/silver_data.csv', index=False)
+print('silver stage : done!')
 
+# print(test)
+# print(weather_column)
 # print(data['weather'])
-# print(daily_info)
 # print(daily_info)
 
 
