@@ -7,8 +7,11 @@ st.set_page_config(page_title="Météorisk Dashboard", layout="wide")
 
 st.title("Météorisk : Moroccan Weather Risk Dashboard")
 
+
+# docker exec -it meteorisk_airflow_webserver airflow users create --username admin --firstname Admin --lastname User --role Admin --email admin@meteorisk.com --password admin
+
 # Get database connection string from environment
-db_url = os.getenv("DATABASE_URL", "postgresql://postgres:2004@localhost:5432/meteorisk")
+db_url = os.getenv("DATABASE_URL", "postgresql://postgres:2004@postgres:5432/meteorisk")
 
 @st.cache_data(ttl=300)
 def load_weather_data():
@@ -55,7 +58,7 @@ try:
 
     # Map View
     st.subheader("📍 City Map Locations")
-    st.map(df[["lat", "lng"]])
+    st.map(df[["lat", "lng"]].rename(columns={"lng": "lon"}))
 
     # High Risk Alerts Section
     st.subheader("⚠️ High Weather Risks (Score > 20)")

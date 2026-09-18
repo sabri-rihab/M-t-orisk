@@ -2,7 +2,7 @@ import pandas as  pd
 import ast 
 
 
-def extract() :
+def transform() :
     #_____________________________________
     data = pd.read_csv('Bronz/bronze_data.csv')
 
@@ -69,7 +69,7 @@ def extract() :
 
 
 if __name__ == "__main__":
-    extract()
+    transform()
 
 
 #_____________________________________

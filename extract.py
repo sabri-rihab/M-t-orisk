@@ -5,7 +5,7 @@ import shutil
 
 
 
-def transform():
+def extract():
     # _______________________________________
     cities = pd.read_csv('ma.csv')
 
@@ -45,10 +45,10 @@ def transform():
 
     # Save untouched JSON/DF to Bronze layer
     bronze_df = pd.DataFrame(extracted_data)
-    bronze_df.to_csv('Bronze/bronze_data.csv', index=False)
+    bronze_df.to_csv('Bronz/bronze_data.csv', index=False)
     print("Bronze extraction complete.")
 
 
 
 if __name__ == "__main__":
-    transform()
+    extract()

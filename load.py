@@ -192,7 +192,7 @@ def load_to_postgres(df_gold: pd.DataFrame, db_url: str):
         # 5. Filter the dataframe to ONLY include weather_detail columns
         # Ensure we drop any rows that failed to map a city_id
         df_weather = df_gold.dropna(subset=['city_id']).copy()
-        
+
         # 5. Filter the dataframe to ONLY include weather_detail columns
         weather_cols = [
             'city_id', 'forecast_date', 'temperature_2m_max', 'temperature_2m_min', 
@@ -223,9 +223,10 @@ def load_to_postgres(df_gold: pd.DataFrame, db_url: str):
         session.close()
 
 
-db_url = "postgresql://postgres:2004@localhost:5432/meteorisk"
-gold = pd.read_csv('Gold/gold_data.csv')
-load_to_postgres(gold, db_url)
+
 # _______________________________________________________
 if __name__ == "__main__":
-    DB_URL = os.getenv("DATABASE_URL", "postgresql://postgres:2004@localhost:5432/meteorisk")
+    db_url = os.getenv("DATABASE_URL", "postgresql://postgres:2004@localhost:5432/meteorisk")
+    # db_url = "postgresql://postgres:2004@localhost:5432/meteorisk"
+    gold = pd.read_csv('Gold/gold_data.csv')
+    load_to_postgres(gold, db_url)

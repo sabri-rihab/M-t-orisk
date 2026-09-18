@@ -24,6 +24,7 @@ services:
       - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
       - AIRFLOW__CORE__LOAD_EXAMPLES=False
       - DATABASE_URL=postgresql://postgres:2004@postgres:5432/meteorisk
+      - PYTHONPATH=/opt/airflow
     volumes:
       - .:/opt/airflow
     ports:
