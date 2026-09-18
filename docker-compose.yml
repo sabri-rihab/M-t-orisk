@@ -1,0 +1,48 @@
+services:
+  # 1. PostgreSQL Database
+  postgres:
+    image: postgres:15
+    container_name: meteorisk_postgres
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=2004
+      - POSTGRES_DB=meteorisk
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # 2. Airflow Webserver (UI)
+  airflow-webserver:
+    build: .
+    container_name: meteorisk_airflow_webserver
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      - AIRFLOW__CORE__DATABASE_SQL_ALCHEMY_CONN=postgresql+psycopg2://postgres:2004@postgres:5432/meteorisk
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - DATABASE_URL=postgresql://postgres:2004@postgres:5432/meteorisk
+    volumes:
+      - .:/opt/airflow
+    ports:
+      - "8080:8080"
+    command: standalone
+
+  # 3. Streamlit Dashboard
+  streamlit:
+    build: .
+    container_name: meteorisk_streamlit
+    entrypoint: ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    ports:
+      - "8501:8501"
+    environment:
+      - DATABASE_URL=postgresql://postgres:2004@postgres:5432/meteorisk
+    depends_on:
+      - postgres
+    volumes:
+      - .:/opt/airflow
+
+volumes:
+  postgres_data:

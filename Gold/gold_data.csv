@@ -1,0 +1,841 @@
+city,admin_name,lat,lng,forecast_date,temperature_2m_max,temperature_2m_min,precipitation_sum,precipitation_probability_max,wind_speed_10m_max,wind_gusts_10m_max,weather_code,temp_category,rain_category,wind_category,risk_score
+Ad Dakhla,Dakhla-Oued Ed-Dahab,23.7167,-15.95,2026-09-15,24.1,22.5,0.0,20,31.8,39.2,1,Moderate,Dry,Strong Wind,19.15
+Ad Dakhla,Dakhla-Oued Ed-Dahab,23.7167,-15.95,2026-09-16,23.2,22.0,0.0,0,35.3,43.9,0,Moderate,Dry,Strong Wind,19.77
+Ad Dakhla,Dakhla-Oued Ed-Dahab,23.7167,-15.95,2026-09-17,22.0,20.2,0.0,0,40.5,51.5,2,Moderate,Dry,Strong Wind,21.88
+Ad Dakhla,Dakhla-Oued Ed-Dahab,23.7167,-15.95,2026-09-18,21.2,20.2,0.0,0,39.6,49.3,0,Moderate,Dry,Strong Wind,21.43
+Ad Dakhla,Dakhla-Oued Ed-Dahab,23.7167,-15.95,2026-09-19,21.0,19.8,0.0,0,30.2,39.2,0,Moderate,Dry,Strong Wind,17.22
+Ad Dakhla,Dakhla-Oued Ed-Dahab,23.7167,-15.95,2026-09-20,21.2,19.4,0.0,3,32.6,40.3,0,Moderate,Dry,Strong Wind,18.93
+Ad Dakhla,Dakhla-Oued Ed-Dahab,23.7167,-15.95,2026-09-21,21.5,19.2,0.0,12,28.7,41.0,0,Moderate,Dry,Breezy,17.22
+Ad Darwa,Casablanca-Settat,33.4167,-7.5333,2026-09-15,33.4,21.0,0.0,0,16.3,32.4,2,Very Hot,Dry,Breezy,23.03
+Ad Darwa,Casablanca-Settat,33.4167,-7.5333,2026-09-16,27.7,19.8,0.0,0,16.7,32.8,2,Hot,Dry,Breezy,16.1
+Ad Darwa,Casablanca-Settat,33.4167,-7.5333,2026-09-17,27.5,19.1,0.0,0,15.5,31.0,3,Hot,Dry,Breezy,15.25
+Ad Darwa,Casablanca-Settat,33.4167,-7.5333,2026-09-18,28.0,17.4,0.0,3,17.1,33.1,3,Hot,Dry,Breezy,16.68
+Ad Darwa,Casablanca-Settat,33.4167,-7.5333,2026-09-19,30.3,17.5,0.0,2,16.9,33.1,45,Hot,Dry,Breezy,19.45
+Ad Darwa,Casablanca-Settat,33.4167,-7.5333,2026-09-20,37.4,21.8,0.0,3,21.2,40.3,2,Very Hot,Dry,Breezy,30.47
+Ad Darwa,Casablanca-Settat,33.4167,-7.5333,2026-09-21,34.5,22.3,0.0,0,19.2,36.7,2,Very Hot,Dry,Breezy,25.85
+Agadir,Souss-Massa,30.4214,-9.5831,2026-09-15,34.7,26.7,0.0,5,8.7,31.7,3,Very Hot,Dry,Calm,20.85
+Agadir,Souss-Massa,30.4214,-9.5831,2026-09-16,38.3,24.7,0.0,0,18.4,41.8,0,Very Hot,Dry,Breezy,30.2
+Agadir,Souss-Massa,30.4214,-9.5831,2026-09-17,30.3,20.9,0.0,0,15.8,45.7,3,Hot,Dry,Breezy,18.9
+Agadir,Souss-Massa,30.4214,-9.5831,2026-09-18,26.8,20.4,0.0,0,13.7,38.2,2,Hot,Dry,Breezy,13.47
+Agadir,Souss-Massa,30.4214,-9.5831,2026-09-19,27.4,20.8,0.0,0,12.2,36.0,2,Hot,Dry,Breezy,13.47
+Agadir,Souss-Massa,30.4214,-9.5831,2026-09-20,29.7,21.3,0.0,0,13.8,28.4,45,Hot,Dry,Breezy,17.15
+Agadir,Souss-Massa,30.4214,-9.5831,2026-09-21,39.2,24.4,0.0,0,16.7,34.9,1,Very Hot,Dry,Breezy,30.48
+Aguelmous,Béni Mellal-Khénifra,33.1324,-5.8366,2026-09-15,33.0,21.1,0.0,0,21.6,42.5,3,Very Hot,Dry,Breezy,25.18
+Aguelmous,Béni Mellal-Khénifra,33.1324,-5.8366,2026-09-16,29.6,16.5,0.0,0,17.5,34.6,2,Hot,Dry,Breezy,18.88
+Aguelmous,Béni Mellal-Khénifra,33.1324,-5.8366,2026-09-17,29.2,15.7,0.0,10,19.0,38.5,3,Hot,Dry,Breezy,19.12
+Aguelmous,Béni Mellal-Khénifra,33.1324,-5.8366,2026-09-18,29.3,15.2,0.0,15,16.7,33.5,3,Hot,Dry,Breezy,18.1
+Aguelmous,Béni Mellal-Khénifra,33.1324,-5.8366,2026-09-19,32.0,16.1,0.0,13,16.4,37.1,3,Very Hot,Dry,Breezy,21.32
+Aguelmous,Béni Mellal-Khénifra,33.1324,-5.8366,2026-09-20,34.0,20.7,0.3,2,20.5,40.0,3,Very Hot,Light Rain,Breezy,26.1
+Aguelmous,Béni Mellal-Khénifra,33.1324,-5.8366,2026-09-21,32.4,20.2,0.6,8,13.3,29.2,3,Very Hot,Light Rain,Breezy,20.72
+Ain El Aouda,Rabat-Salé-Kénitra,33.8111,-6.7922,2026-09-15,31.7,20.0,0.0,0,17.6,34.6,0,Hot,Dry,Breezy,21.55
+Ain El Aouda,Rabat-Salé-Kénitra,33.8111,-6.7922,2026-09-16,27.2,18.5,0.0,0,19.7,39.2,2,Hot,Dry,Breezy,16.98
+Ain El Aouda,Rabat-Salé-Kénitra,33.8111,-6.7922,2026-09-17,26.9,17.0,0.0,0,16.5,32.8,3,Hot,Dry,Breezy,15.0
+Ain El Aouda,Rabat-Salé-Kénitra,33.8111,-6.7922,2026-09-18,28.3,15.2,0.0,3,14.5,28.8,45,Hot,Dry,Breezy,15.75
+Ain El Aouda,Rabat-Salé-Kénitra,33.8111,-6.7922,2026-09-19,31.7,15.4,0.0,3,15.5,31.7,45,Hot,Dry,Breezy,20.5
+Ain El Aouda,Rabat-Salé-Kénitra,33.8111,-6.7922,2026-09-20,37.9,19.5,0.0,3,17.4,33.1,2,Very Hot,Dry,Breezy,29.2
+Ain El Aouda,Rabat-Salé-Kénitra,33.8111,-6.7922,2026-09-21,33.7,20.9,0.0,3,17.5,33.5,45,Very Hot,Dry,Breezy,24.0
+Ait Ali,Souss-Massa,30.1739,-9.4881,2026-09-15,36.0,25.8,0.0,0,19.5,32.8,3,Very Hot,Dry,Breezy,27.88
+Ait Ali,Souss-Massa,30.1739,-9.4881,2026-09-16,31.9,22.4,0.0,0,25.3,41.0,1,Hot,Dry,Breezy,25.65
+Ait Ali,Souss-Massa,30.1739,-9.4881,2026-09-17,27.2,21.0,0.0,0,26.9,44.6,3,Hot,Dry,Breezy,20.57
+Ait Ali,Souss-Massa,30.1739,-9.4881,2026-09-18,27.0,20.2,0.0,0,21.9,38.9,1,Hot,Dry,Breezy,17.82
+Ait Ali,Souss-Massa,30.1739,-9.4881,2026-09-19,27.3,20.5,0.0,0,22.3,37.4,2,Hot,Dry,Breezy,18.4
+Ait Ali,Souss-Massa,30.1739,-9.4881,2026-09-20,28.4,20.6,0.0,0,17.7,30.6,1,Hot,Dry,Breezy,17.47
+Ait Ali,Souss-Massa,30.1739,-9.4881,2026-09-21,37.0,22.2,0.0,0,17.0,29.9,0,Very Hot,Dry,Breezy,27.88
+Ait Melloul,Souss-Massa,30.3342,-9.4972,2026-09-15,34.5,25.7,0.0,8,15.7,31.7,3,Very Hot,Dry,Breezy,24.1
+Ait Melloul,Souss-Massa,30.3342,-9.4972,2026-09-16,30.2,21.8,0.0,0,19.5,36.7,1,Hot,Dry,Breezy,20.62
+Ait Melloul,Souss-Massa,30.3342,-9.4972,2026-09-17,27.9,21.5,0.0,0,18.5,37.1,3,Hot,Dry,Breezy,17.25
+Ait Melloul,Souss-Massa,30.3342,-9.4972,2026-09-18,26.9,20.5,0.0,0,18.1,36.0,3,Hot,Dry,Breezy,15.8
+Ait Melloul,Souss-Massa,30.3342,-9.4972,2026-09-19,26.9,20.9,0.0,0,20.4,40.7,3,Hot,Dry,Breezy,16.95
+Ait Melloul,Souss-Massa,30.3342,-9.4972,2026-09-20,29.9,20.5,0.0,0,13.8,28.4,1,Hot,Dry,Breezy,17.4
+Ait Melloul,Souss-Massa,30.3342,-9.4972,2026-09-21,39.5,24.6,0.0,0,16.7,34.9,1,Very Hot,Dry,Breezy,30.85
+Ait Ourir,Marrakech-Safi,31.5644,-7.6628,2026-09-15,36.0,24.7,0.0,3,16.9,31.7,3,Very Hot,Dry,Breezy,26.57
+Ait Ourir,Marrakech-Safi,31.5644,-7.6628,2026-09-16,33.0,20.3,0.0,0,15.2,28.8,1,Very Hot,Dry,Breezy,21.98
+Ait Ourir,Marrakech-Safi,31.5644,-7.6628,2026-09-17,28.1,17.9,0.0,8,11.0,20.5,3,Hot,Dry,Breezy,13.75
+Ait Ourir,Marrakech-Safi,31.5644,-7.6628,2026-09-18,30.4,17.8,0.0,8,10.6,20.9,3,Hot,Dry,Breezy,16.43
+Ait Ourir,Marrakech-Safi,31.5644,-7.6628,2026-09-19,35.2,20.0,0.0,3,12.9,22.7,3,Very Hot,Dry,Breezy,23.58
+Ait Ourir,Marrakech-Safi,31.5644,-7.6628,2026-09-20,38.7,23.4,0.0,0,13.0,36.4,3,Very Hot,Dry,Breezy,28.0
+Ait Ourir,Marrakech-Safi,31.5644,-7.6628,2026-09-21,36.2,22.7,0.3,3,15.3,31.0,2,Very Hot,Light Rain,Breezy,26.25
+Al Aaroui,Oriental,35.0104,-3.0073,2026-09-15,28.8,18.2,0.0,0,16.1,28.4,45,Hot,Dry,Breezy,17.18
+Al Aaroui,Oriental,35.0104,-3.0073,2026-09-16,33.4,17.6,0.0,0,15.2,28.1,1,Very Hot,Dry,Breezy,22.48
+Al Aaroui,Oriental,35.0104,-3.0073,2026-09-17,27.9,17.3,0.0,5,20.5,37.1,3,Hot,Dry,Breezy,18.25
+Al Aaroui,Oriental,35.0104,-3.0073,2026-09-18,26.1,20.0,0.0,10,21.4,37.4,45,Hot,Dry,Breezy,16.45
+Al Aaroui,Oriental,35.0104,-3.0073,2026-09-19,26.6,19.9,0.0,8,27.8,49.3,45,Hot,Dry,Breezy,20.28
+Al Aaroui,Oriental,35.0104,-3.0073,2026-09-20,27.4,20.9,0.0,5,22.7,47.5,3,Hot,Dry,Breezy,18.72
+Al Aaroui,Oriental,35.0104,-3.0073,2026-09-21,27.7,18.5,0.0,0,24.2,45.7,2,Hot,Dry,Breezy,19.85
+Al Fqih Ben Çalah,Béni Mellal-Khénifra,32.507,-6.6886,2026-09-15,39.6,22.6,0.0,3,19.2,36.0,2,Very Hot,Dry,Breezy,32.23
+Al Fqih Ben Çalah,Béni Mellal-Khénifra,32.507,-6.6886,2026-09-16,35.5,19.8,0.0,0,16.9,34.9,0,Very Hot,Dry,Breezy,25.95
+Al Fqih Ben Çalah,Béni Mellal-Khénifra,32.507,-6.6886,2026-09-17,32.8,16.5,0.0,0,13.4,25.2,3,Very Hot,Dry,Breezy,20.82
+Al Fqih Ben Çalah,Béni Mellal-Khénifra,32.507,-6.6886,2026-09-18,33.5,17.2,0.0,13,8.6,18.4,3,Very Hot,Dry,Calm,19.3
+Al Fqih Ben Çalah,Béni Mellal-Khénifra,32.507,-6.6886,2026-09-19,38.0,19.5,0.0,6,13.5,27.0,2,Very Hot,Dry,Breezy,27.38
+Al Fqih Ben Çalah,Béni Mellal-Khénifra,32.507,-6.6886,2026-09-20,40.2,25.3,0.0,0,19.8,34.6,3,Extreme Hot,Dry,Breezy,33.28
+Al Fqih Ben Çalah,Béni Mellal-Khénifra,32.507,-6.6886,2026-09-21,38.9,23.8,0.6,3,11.9,23.0,3,Very Hot,Light Rain,Breezy,28.15
+Al Hoceïma,Tanger-Tétouan-Al Hoceïma,35.2472,-3.9322,2026-09-15,26.4,20.2,0.0,0,10.8,19.8,45,Hot,Dry,Breezy,11.52
+Al Hoceïma,Tanger-Tétouan-Al Hoceïma,35.2472,-3.9322,2026-09-16,28.9,19.9,0.0,0,12.8,23.8,1,Hot,Dry,Breezy,15.65
+Al Hoceïma,Tanger-Tétouan-Al Hoceïma,35.2472,-3.9322,2026-09-17,25.9,19.6,0.0,5,15.9,28.8,3,Hot,Dry,Breezy,13.45
+Al Hoceïma,Tanger-Tétouan-Al Hoceïma,35.2472,-3.9322,2026-09-18,26.0,19.2,0.0,8,18.2,32.4,3,Hot,Dry,Breezy,14.72
+Al Hoceïma,Tanger-Tétouan-Al Hoceïma,35.2472,-3.9322,2026-09-19,28.4,18.8,0.0,8,26.8,48.2,2,Hot,Dry,Breezy,22.02
+Al Hoceïma,Tanger-Tétouan-Al Hoceïma,35.2472,-3.9322,2026-09-20,27.8,20.8,0.0,5,26.8,53.3,1,Hot,Dry,Breezy,21.28
+Al Hoceïma,Tanger-Tétouan-Al Hoceïma,35.2472,-3.9322,2026-09-21,27.5,21.2,0.0,3,21.9,39.2,2,Hot,Dry,Breezy,18.45
+Al Khmissat,Rabat-Salé-Kénitra,33.81,-6.06,2026-09-15,34.8,20.4,0.0,0,17.7,36.7,0,Very Hot,Dry,Breezy,25.47
+Al Khmissat,Rabat-Salé-Kénitra,33.81,-6.06,2026-09-16,31.0,18.1,0.0,0,18.2,37.4,1,Hot,Dry,Breezy,20.97
+Al Khmissat,Rabat-Salé-Kénitra,33.81,-6.06,2026-09-17,28.4,16.5,0.0,0,15.5,32.0,3,Hot,Dry,Breezy,16.37
+Al Khmissat,Rabat-Salé-Kénitra,33.81,-6.06,2026-09-18,29.7,15.5,0.0,5,14.0,29.9,45,Hot,Dry,Breezy,17.25
+Al Khmissat,Rabat-Salé-Kénitra,33.81,-6.06,2026-09-19,34.4,17.5,0.0,3,13.8,29.2,3,Very Hot,Dry,Breezy,23.02
+Al Khmissat,Rabat-Salé-Kénitra,33.81,-6.06,2026-09-20,37.9,21.7,0.0,3,19.6,36.4,2,Very Hot,Dry,Breezy,30.3
+Al Khmissat,Rabat-Salé-Kénitra,33.81,-6.06,2026-09-21,38.2,19.7,0.0,3,20.0,36.7,2,Very Hot,Dry,Breezy,30.88
+Al ’Attawia,Marrakech-Safi,31.83,-7.31,2026-09-15,36.6,24.7,0.0,5,25.8,47.2,3,Very Hot,Dry,Breezy,31.78
+Al ’Attawia,Marrakech-Safi,31.83,-7.31,2026-09-16,33.1,19.4,0.0,0,17.5,31.3,1,Very Hot,Dry,Breezy,23.25
+Al ’Attawia,Marrakech-Safi,31.83,-7.31,2026-09-17,28.7,17.4,0.0,8,13.4,25.2,3,Hot,Dry,Breezy,15.7
+Al ’Attawia,Marrakech-Safi,31.83,-7.31,2026-09-18,30.3,17.5,0.0,10,13.0,23.8,3,Hot,Dry,Breezy,17.5
+Al ’Attawia,Marrakech-Safi,31.83,-7.31,2026-09-19,34.7,19.2,0.0,4,14.3,28.8,2,Very Hot,Dry,Breezy,23.65
+Al ’Attawia,Marrakech-Safi,31.83,-7.31,2026-09-20,37.9,22.1,0.0,3,13.0,23.0,3,Very Hot,Dry,Breezy,27.0
+Al ’Attawia,Marrakech-Safi,31.83,-7.31,2026-09-21,35.4,20.4,0.9,5,12.2,22.3,80,Very Hot,Light Rain,Breezy,24.15
+Arfoud,Drâa-Tafilalet,31.4361,-4.2328,2026-09-15,37.0,26.5,0.1,8,18.4,33.1,3,Very Hot,Light Rain,Breezy,28.65
+Arfoud,Drâa-Tafilalet,31.4361,-4.2328,2026-09-16,34.6,24.4,0.1,3,12.2,19.4,3,Very Hot,Light Rain,Breezy,22.55
+Arfoud,Drâa-Tafilalet,31.4361,-4.2328,2026-09-17,33.2,23.6,0.7,23,20.5,33.1,80,Very Hot,Light Rain,Breezy,25.4
+Arfoud,Drâa-Tafilalet,31.4361,-4.2328,2026-09-18,33.8,21.2,0.0,25,10.8,16.6,3,Very Hot,Dry,Breezy,20.77
+Arfoud,Drâa-Tafilalet,31.4361,-4.2328,2026-09-19,34.5,23.5,0.0,21,15.6,24.1,2,Very Hot,Dry,Breezy,24.05
+Arfoud,Drâa-Tafilalet,31.4361,-4.2328,2026-09-20,35.5,23.9,0.0,9,13.6,22.6,2,Very Hot,Dry,Breezy,24.3
+Arfoud,Drâa-Tafilalet,31.4361,-4.2328,2026-09-21,36.1,24.7,0.0,10,18.0,33.1,3,Very Hot,Dry,Breezy,27.25
+Asilah,Tanger-Tétouan-Al Hoceïma,35.4667,-6.0333,2026-09-15,31.9,21.4,0.0,0,17.8,33.5,0,Hot,Dry,Breezy,21.9
+Asilah,Tanger-Tétouan-Al Hoceïma,35.4667,-6.0333,2026-09-16,24.7,19.5,0.0,0,17.6,32.4,3,Moderate,Dry,Breezy,12.8
+Asilah,Tanger-Tétouan-Al Hoceïma,35.4667,-6.0333,2026-09-17,24.5,18.7,0.0,1,14.5,28.4,3,Moderate,Dry,Breezy,11.0
+Asilah,Tanger-Tétouan-Al Hoceïma,35.4667,-6.0333,2026-09-18,27.1,16.7,0.0,3,20.4,35.6,3,Hot,Dry,Breezy,17.2
+Asilah,Tanger-Tétouan-Al Hoceïma,35.4667,-6.0333,2026-09-19,29.6,21.8,0.0,3,35.5,65.9,1,Hot,Dry,Strong Wind,27.88
+Asilah,Tanger-Tétouan-Al Hoceïma,35.4667,-6.0333,2026-09-20,35.0,23.5,0.0,3,31.8,58.7,0,Very Hot,Dry,Strong Wind,32.77
+Asilah,Tanger-Tétouan-Al Hoceïma,35.4667,-6.0333,2026-09-21,37.0,25.3,0.0,3,17.8,34.2,0,Very Hot,Dry,Breezy,28.27
+Azemmour,Casablanca-Settat,33.2833,-8.3333,2026-09-15,29.0,21.1,0.0,0,17.2,32.4,45,Hot,Dry,Breezy,17.97
+Azemmour,Casablanca-Settat,33.2833,-8.3333,2026-09-16,26.6,20.4,0.0,0,18.4,34.2,45,Hot,Dry,Breezy,15.57
+Azemmour,Casablanca-Settat,33.2833,-8.3333,2026-09-17,26.7,19.1,0.0,0,16.5,30.6,3,Hot,Dry,Breezy,14.75
+Azemmour,Casablanca-Settat,33.2833,-8.3333,2026-09-18,26.4,18.5,0.0,0,17.7,32.4,3,Hot,Dry,Breezy,14.97
+Azemmour,Casablanca-Settat,33.2833,-8.3333,2026-09-19,27.2,18.6,0.0,0,18.1,34.6,2,Hot,Dry,Breezy,16.18
+Azemmour,Casablanca-Settat,33.2833,-8.3333,2026-09-20,29.6,21.1,0.0,0,15.9,31.0,2,Hot,Dry,Breezy,18.08
+Azemmour,Casablanca-Settat,33.2833,-8.3333,2026-09-21,28.5,21.9,0.0,0,13.8,28.4,2,Hot,Dry,Breezy,15.65
+Aziylal,Béni Mellal-Khénifra,31.96,-6.56,2026-09-15,30.3,20.0,0.5,15,26.0,63.0,80,Hot,Light Rain,Breezy,24.38
+Aziylal,Béni Mellal-Khénifra,31.96,-6.56,2026-09-16,26.8,16.5,0.0,0,18.9,39.6,2,Hot,Dry,Breezy,16.07
+Aziylal,Béni Mellal-Khénifra,31.96,-6.56,2026-09-17,25.2,15.4,0.0,23,16.3,36.4,3,Hot,Dry,Breezy,15.78
+Aziylal,Béni Mellal-Khénifra,31.96,-6.56,2026-09-18,26.2,15.9,0.0,15,16.3,34.9,3,Hot,Dry,Breezy,15.15
+Aziylal,Béni Mellal-Khénifra,31.96,-6.56,2026-09-19,29.5,18.2,0.0,15,16.1,38.5,3,Hot,Dry,Breezy,18.05
+Aziylal,Béni Mellal-Khénifra,31.96,-6.56,2026-09-20,30.8,21.4,0.9,8,19.3,40.3,80,Hot,Light Rain,Breezy,21.95
+Aziylal,Béni Mellal-Khénifra,31.96,-6.56,2026-09-21,30.0,20.3,1.8,8,20.4,38.2,80,Hot,Light Rain,Breezy,22.17
+Azrou,Fès-Meknès,33.4344,-5.2213,2026-09-15,30.0,18.8,0.0,0,19.8,42.1,2,Hot,Dry,Breezy,20.52
+Azrou,Fès-Meknès,33.4344,-5.2213,2026-09-16,26.5,14.4,0.0,0,16.6,40.3,2,Hot,Dry,Breezy,17.18
+Azrou,Fès-Meknès,33.4344,-5.2213,2026-09-17,25.7,14.9,0.0,13,15.7,34.2,3,Hot,Dry,Breezy,16.1
+Azrou,Fès-Meknès,33.4344,-5.2213,2026-09-18,25.9,14.2,0.0,18,14.7,34.2,3,Hot,Dry,Breezy,16.48
+Azrou,Fès-Meknès,33.4344,-5.2213,2026-09-19,29.0,16.8,0.0,15,13.9,32.4,2,Hot,Dry,Breezy,16.32
+Azrou,Fès-Meknès,33.4344,-5.2213,2026-09-20,30.9,20.2,0.0,5,14.0,42.5,3,Hot,Dry,Breezy,18.75
+Azrou,Fès-Meknès,33.4344,-5.2213,2026-09-21,29.8,21.2,0.0,17,17.6,43.6,3,Hot,Dry,Breezy,19.18
+Aïn Harrouda,Casablanca-Settat,33.6372,-7.4483,2026-09-15,29.2,21.7,0.0,0,12.2,32.4,45,Hot,Dry,Breezy,15.72
+Aïn Harrouda,Casablanca-Settat,33.6372,-7.4483,2026-09-16,26.3,20.6,0.0,0,14.5,37.1,2,Hot,Dry,Breezy,13.25
+Aïn Harrouda,Casablanca-Settat,33.6372,-7.4483,2026-09-17,26.2,19.7,0.0,0,13.0,34.9,3,Hot,Dry,Breezy,12.38
+Aïn Harrouda,Casablanca-Settat,33.6372,-7.4483,2026-09-18,25.9,18.3,0.0,3,14.0,36.0,3,Hot,Dry,Breezy,12.5
+Aïn Harrouda,Casablanca-Settat,33.6372,-7.4483,2026-09-19,27.3,17.9,0.0,2,13.0,33.8,1,Hot,Dry,Breezy,13.75
+Aïn Harrouda,Casablanca-Settat,33.6372,-7.4483,2026-09-20,30.6,20.9,0.0,3,11.5,28.1,2,Hot,Dry,Breezy,17.12
+Aïn Harrouda,Casablanca-Settat,33.6372,-7.4483,2026-09-21,30.8,21.5,0.0,0,14.2,32.8,2,Hot,Dry,Breezy,18.73
+Aïn Taoujdat,Fès-Meknès,33.9333,-5.2167,2026-09-15,34.5,22.3,0.0,0,18.2,35.6,2,Very Hot,Dry,Breezy,25.35
+Aïn Taoujdat,Fès-Meknès,33.9333,-5.2167,2026-09-16,31.3,20.4,0.0,0,18.9,36.7,0,Hot,Dry,Breezy,21.7
+Aïn Taoujdat,Fès-Meknès,33.9333,-5.2167,2026-09-17,27.8,17.9,0.0,3,16.5,31.3,45,Hot,Dry,Breezy,16.12
+Aïn Taoujdat,Fès-Meknès,33.9333,-5.2167,2026-09-18,29.8,16.6,0.0,8,14.3,27.7,3,Hot,Dry,Breezy,17.53
+Aïn Taoujdat,Fès-Meknès,33.9333,-5.2167,2026-09-19,33.3,18.5,0.0,3,17.1,31.7,3,Very Hot,Dry,Breezy,23.3
+Aïn Taoujdat,Fès-Meknès,33.9333,-5.2167,2026-09-20,36.7,20.5,0.0,3,19.9,37.4,2,Very Hot,Dry,Breezy,28.95
+Aïn Taoujdat,Fès-Meknès,33.9333,-5.2167,2026-09-21,37.3,22.1,0.0,0,17.9,32.8,2,Very Hot,Dry,Breezy,28.7
+Barrechid,Casablanca-Settat,33.27,-7.5872,2026-09-15,35.9,21.4,0.0,0,20.9,38.5,2,Very Hot,Dry,Breezy,28.45
+Barrechid,Casablanca-Settat,33.27,-7.5872,2026-09-16,29.1,19.6,0.0,0,18.7,33.8,2,Hot,Dry,Breezy,18.85
+Barrechid,Casablanca-Settat,33.27,-7.5872,2026-09-17,28.2,18.3,0.0,0,18.4,33.5,3,Hot,Dry,Breezy,17.57
+Barrechid,Casablanca-Settat,33.27,-7.5872,2026-09-18,29.6,17.5,0.0,3,18.5,33.5,3,Hot,Dry,Breezy,19.38
+Barrechid,Casablanca-Settat,33.27,-7.5872,2026-09-19,32.7,16.8,0.0,3,17.7,33.1,1,Very Hot,Dry,Breezy,22.85
+Barrechid,Casablanca-Settat,33.27,-7.5872,2026-09-20,37.5,21.4,0.0,3,22.0,40.0,2,Very Hot,Dry,Breezy,31.0
+Barrechid,Casablanca-Settat,33.27,-7.5872,2026-09-21,34.0,22.1,0.0,0,20.1,36.0,2,Very Hot,Dry,Breezy,25.68
+Ben Guerir,Marrakech-Safi,32.23,-7.95,2026-09-15,37.1,24.5,0.0,3,21.3,42.5,3,Very Hot,Dry,Breezy,30.15
+Ben Guerir,Marrakech-Safi,32.23,-7.95,2026-09-16,33.0,19.8,0.0,0,19.5,39.2,1,Very Hot,Dry,Breezy,24.12
+Ben Guerir,Marrakech-Safi,32.23,-7.95,2026-09-17,28.7,17.2,0.0,0,15.7,33.1,2,Hot,Dry,Breezy,16.85
+Ben Guerir,Marrakech-Safi,32.23,-7.95,2026-09-18,30.5,17.2,0.0,4,14.6,30.6,3,Hot,Dry,Breezy,18.55
+Ben Guerir,Marrakech-Safi,32.23,-7.95,2026-09-19,34.5,18.1,0.0,5,18.0,36.7,2,Very Hot,Dry,Breezy,25.25
+Ben Guerir,Marrakech-Safi,32.23,-7.95,2026-09-20,39.4,25.7,0.0,1,24.0,42.1,3,Very Hot,Dry,Breezy,34.38
+Ben Guerir,Marrakech-Safi,32.23,-7.95,2026-09-21,36.2,23.4,0.0,3,18.3,33.5,3,Very Hot,Dry,Breezy,27.53
+Beni Yakhlef,Casablanca-Settat,33.6555,-7.3221,2026-09-15,30.6,20.2,0.0,0,17.3,31.7,45,Hot,Dry,Breezy,20.03
+Beni Yakhlef,Casablanca-Settat,33.6555,-7.3221,2026-09-16,26.8,19.5,0.0,0,18.6,34.2,2,Hot,Dry,Breezy,15.93
+Beni Yakhlef,Casablanca-Settat,33.6555,-7.3221,2026-09-17,26.7,18.9,0.0,0,16.8,31.3,3,Hot,Dry,Breezy,14.9
+Beni Yakhlef,Casablanca-Settat,33.6555,-7.3221,2026-09-18,26.6,17.5,0.0,3,18.3,33.5,3,Hot,Dry,Breezy,15.53
+Beni Yakhlef,Casablanca-Settat,33.6555,-7.3221,2026-09-19,28.7,16.7,0.0,2,17.7,32.0,1,Hot,Dry,Breezy,17.85
+Beni Yakhlef,Casablanca-Settat,33.6555,-7.3221,2026-09-20,33.7,20.2,0.0,3,17.0,31.3,2,Very Hot,Dry,Breezy,23.75
+Beni Yakhlef,Casablanca-Settat,33.6555,-7.3221,2026-09-21,32.5,21.9,0.0,0,17.3,32.8,45,Very Hot,Dry,Breezy,22.4
+Berkane,Oriental,34.9167,-2.3167,2026-09-15,27.1,17.8,0.0,0,12.8,27.7,2,Hot,Dry,Breezy,13.4
+Berkane,Oriental,34.9167,-2.3167,2026-09-16,32.0,17.5,0.0,0,14.6,31.0,1,Very Hot,Dry,Breezy,20.42
+Berkane,Oriental,34.9167,-2.3167,2026-09-17,26.1,18.4,0.0,0,16.2,34.6,3,Hot,Dry,Breezy,13.85
+Berkane,Oriental,34.9167,-2.3167,2026-09-18,25.6,18.9,0.0,18,17.1,34.6,45,Hot,Dry,Breezy,13.68
+Berkane,Oriental,34.9167,-2.3167,2026-09-19,26.4,17.9,0.0,8,21.4,44.6,45,Hot,Dry,Breezy,16.82
+Berkane,Oriental,34.9167,-2.3167,2026-09-20,27.2,20.1,0.0,1,14.7,28.4,45,Hot,Dry,Breezy,14.47
+Berkane,Oriental,34.9167,-2.3167,2026-09-21,27.1,18.6,0.0,0,13.4,25.6,3,Hot,Dry,Breezy,13.7
+Biougra,Souss-Massa,30.2144,-9.3708,2026-09-15,37.8,27.1,0.0,3,20.6,34.2,2,Very Hot,Dry,Breezy,30.67
+Biougra,Souss-Massa,30.2144,-9.3708,2026-09-16,33.7,23.5,0.0,0,29.5,49.3,1,Very Hot,Dry,Breezy,30.0
+Biougra,Souss-Massa,30.2144,-9.3708,2026-09-17,27.8,21.1,0.0,0,32.6,55.1,2,Hot,Dry,Strong Wind,24.18
+Biougra,Souss-Massa,30.2144,-9.3708,2026-09-18,28.2,20.2,0.0,0,24.6,41.8,2,Hot,Dry,Breezy,20.67
+Biougra,Souss-Massa,30.2144,-9.3708,2026-09-19,29.0,20.5,0.0,0,23.2,38.9,2,Hot,Dry,Breezy,20.97
+Biougra,Souss-Massa,30.2144,-9.3708,2026-09-20,28.5,20.9,0.0,0,22.8,39.2,1,Hot,Dry,Breezy,20.15
+Biougra,Souss-Massa,30.2144,-9.3708,2026-09-21,38.4,21.1,0.0,0,20.9,37.4,1,Very Hot,Dry,Breezy,31.57
+Bir Jdid,Casablanca-Settat,33.3737,-8.0002,2026-09-15,29.8,20.8,0.0,0,16.6,32.8,45,Hot,Dry,Breezy,18.68
+Bir Jdid,Casablanca-Settat,33.3737,-8.0002,2026-09-16,26.3,20.3,0.0,0,18.4,35.6,45,Hot,Dry,Breezy,15.2
+Bir Jdid,Casablanca-Settat,33.3737,-8.0002,2026-09-17,26.4,18.6,0.0,0,16.8,33.1,3,Hot,Dry,Breezy,14.52
+Bir Jdid,Casablanca-Settat,33.3737,-8.0002,2026-09-18,26.5,18.0,0.0,3,18.1,35.3,2,Hot,Dry,Breezy,15.3
+Bir Jdid,Casablanca-Settat,33.3737,-8.0002,2026-09-19,27.5,18.3,0.0,3,18.2,35.3,2,Hot,Dry,Breezy,16.6
+Bir Jdid,Casablanca-Settat,33.3737,-8.0002,2026-09-20,31.4,21.1,0.0,3,16.6,33.1,2,Hot,Dry,Breezy,20.67
+Bir Jdid,Casablanca-Settat,33.3737,-8.0002,2026-09-21,29.9,21.3,0.0,0,16.4,33.1,45,Hot,Dry,Breezy,18.7
+Bou Arfa,Oriental,32.531,-1.9631,2026-09-15,32.2,20.1,0.1,10,13.7,21.2,3,Very Hot,Light Rain,Breezy,20.3
+Bou Arfa,Oriental,32.531,-1.9631,2026-09-16,28.7,19.0,0.0,3,15.3,24.1,3,Hot,Dry,Breezy,16.65
+Bou Arfa,Oriental,32.531,-1.9631,2026-09-17,30.1,17.9,1.0,34,22.3,41.8,80,Hot,Light Rain,Breezy,22.65
+Bou Arfa,Oriental,32.531,-1.9631,2026-09-18,29.2,17.8,0.0,35,15.8,25.2,3,Hot,Dry,Breezy,17.52
+Bou Arfa,Oriental,32.531,-1.9631,2026-09-19,29.7,18.6,0.0,25,20.7,31.0,2,Hot,Dry,Breezy,20.6
+Bou Arfa,Oriental,32.531,-1.9631,2026-09-20,31.7,19.0,0.0,13,13.3,20.9,2,Hot,Dry,Breezy,19.4
+Bou Arfa,Oriental,32.531,-1.9631,2026-09-21,30.9,20.5,0.0,17,12.6,20.2,3,Hot,Dry,Breezy,18.05
+Boujad,Béni Mellal-Khénifra,32.7741,-6.3925,2026-09-15,37.1,23.7,0.0,3,20.5,38.2,3,Very Hot,Dry,Breezy,29.75
+Boujad,Béni Mellal-Khénifra,32.7741,-6.3925,2026-09-16,32.9,19.1,0.0,0,18.4,32.8,0,Very Hot,Dry,Breezy,23.45
+Boujad,Béni Mellal-Khénifra,32.7741,-6.3925,2026-09-17,31.3,16.8,0.0,3,18.5,33.5,3,Hot,Dry,Breezy,21.5
+Boujad,Béni Mellal-Khénifra,32.7741,-6.3925,2026-09-18,31.5,17.5,0.0,13,16.6,33.5,3,Hot,Dry,Breezy,20.8
+Boujad,Béni Mellal-Khénifra,32.7741,-6.3925,2026-09-19,35.5,20.2,0.0,6,21.3,38.2,2,Very Hot,Dry,Breezy,28.15
+Boujad,Béni Mellal-Khénifra,32.7741,-6.3925,2026-09-20,37.7,25.4,0.0,3,18.8,37.4,2,Very Hot,Dry,Breezy,29.65
+Boujad,Béni Mellal-Khénifra,32.7741,-6.3925,2026-09-21,34.3,24.4,0.9,0,12.4,34.6,80,Very Hot,Light Rain,Breezy,22.87
+Bouknadel,Rabat-Salé-Kénitra,34.1766,-6.6893,2026-09-15,26.8,21.0,0.0,0,15.8,27.0,45,Hot,Dry,Breezy,14.52
+Bouknadel,Rabat-Salé-Kénitra,34.1766,-6.6893,2026-09-16,25.7,21.2,0.0,0,18.1,31.3,2,Hot,Dry,Breezy,14.3
+Bouknadel,Rabat-Salé-Kénitra,34.1766,-6.6893,2026-09-17,25.4,19.2,0.0,0,12.9,23.0,3,Hot,Dry,Breezy,11.32
+Bouknadel,Rabat-Salé-Kénitra,34.1766,-6.6893,2026-09-18,25.4,17.9,0.0,3,14.3,25.2,3,Hot,Dry,Breezy,12.03
+Bouknadel,Rabat-Salé-Kénitra,34.1766,-6.6893,2026-09-19,29.3,17.6,0.0,3,17.2,28.8,45,Hot,Dry,Breezy,18.35
+Bouknadel,Rabat-Salé-Kénitra,34.1766,-6.6893,2026-09-20,35.7,22.9,0.0,0,13.0,29.5,2,Very Hot,Dry,Breezy,24.25
+Bouknadel,Rabat-Salé-Kénitra,34.1766,-6.6893,2026-09-21,30.3,22.3,0.0,0,12.0,28.1,2,Hot,Dry,Breezy,17.0
+Bouskoura,Casablanca-Settat,33.4489,-7.6486,2026-09-15,32.6,21.0,0.0,0,14.6,36.7,45,Very Hot,Dry,Breezy,21.18
+Bouskoura,Casablanca-Settat,33.4489,-7.6486,2026-09-16,27.2,20.0,0.0,0,15.4,38.5,3,Hot,Dry,Breezy,14.82
+Bouskoura,Casablanca-Settat,33.4489,-7.6486,2026-09-17,27.0,19.3,0.0,0,14.9,36.7,3,Hot,Dry,Breezy,14.32
+Bouskoura,Casablanca-Settat,33.4489,-7.6486,2026-09-18,27.5,18.0,0.0,3,15.7,38.5,3,Hot,Dry,Breezy,15.35
+Bouskoura,Casablanca-Settat,33.4489,-7.6486,2026-09-19,29.8,18.0,0.0,2,15.1,37.4,45,Hot,Dry,Breezy,17.93
+Bouskoura,Casablanca-Settat,33.4489,-7.6486,2026-09-20,31.1,21.9,0.0,3,12.0,31.0,2,Hot,Dry,Breezy,18.0
+Bouskoura,Casablanca-Settat,33.4489,-7.6486,2026-09-21,29.8,21.3,0.0,0,13.4,34.2,2,Hot,Dry,Breezy,17.08
+Béni Mellal,Béni Mellal-Khénifra,32.3394,-6.3608,2026-09-15,36.9,25.9,0.0,5,20.6,44.3,3,Very Hot,Dry,Breezy,29.55
+Béni Mellal,Béni Mellal-Khénifra,32.3394,-6.3608,2026-09-16,33.1,22.2,0.0,0,17.3,36.0,1,Very Hot,Dry,Breezy,23.15
+Béni Mellal,Béni Mellal-Khénifra,32.3394,-6.3608,2026-09-17,29.9,19.3,0.0,8,10.5,26.6,3,Hot,Dry,Breezy,15.75
+Béni Mellal,Béni Mellal-Khénifra,32.3394,-6.3608,2026-09-18,31.3,19.1,0.0,9,10.3,31.3,3,Hot,Dry,Breezy,17.4
+Béni Mellal,Béni Mellal-Khénifra,32.3394,-6.3608,2026-09-19,35.5,22.0,0.0,4,12.2,29.2,3,Very Hot,Dry,Breezy,23.6
+Béni Mellal,Béni Mellal-Khénifra,32.3394,-6.3608,2026-09-20,38.7,26.2,0.0,5,17.0,37.4,3,Very Hot,Dry,Breezy,30.0
+Béni Mellal,Béni Mellal-Khénifra,32.3394,-6.3608,2026-09-21,36.7,28.4,0.3,5,22.4,41.8,80,Very Hot,Light Rain,Breezy,30.43
+Cabo Bojador,Laâyoune-Sakia El Hamra,26.1269,-14.4992,2026-09-15,33.3,24.6,0.0,0,26.7,45.0,2,Very Hot,Dry,Breezy,28.1
+Cabo Bojador,Laâyoune-Sakia El Hamra,26.1269,-14.4992,2026-09-16,29.0,22.2,0.0,0,27.7,49.7,0,Hot,Dry,Breezy,23.23
+Cabo Bojador,Laâyoune-Sakia El Hamra,26.1269,-14.4992,2026-09-17,25.4,20.8,0.0,0,34.0,60.8,3,Hot,Dry,Strong Wind,21.87
+Cabo Bojador,Laâyoune-Sakia El Hamra,26.1269,-14.4992,2026-09-18,24.9,20.2,0.0,0,24.6,47.2,3,Moderate,Dry,Breezy,16.55
+Cabo Bojador,Laâyoune-Sakia El Hamra,26.1269,-14.4992,2026-09-19,25.1,19.0,0.0,0,22.2,43.2,0,Hot,Dry,Breezy,15.6
+Cabo Bojador,Laâyoune-Sakia El Hamra,26.1269,-14.4992,2026-09-20,26.3,19.3,0.0,0,26.3,49.0,0,Hot,Dry,Breezy,19.15
+Cabo Bojador,Laâyoune-Sakia El Hamra,26.1269,-14.4992,2026-09-21,28.5,20.4,0.0,6,25.7,47.5,0,Hot,Dry,Breezy,21.6
+Casablanca,Casablanca-Settat,33.5992,-7.62,2026-09-15,28.9,21.7,0.0,0,10.8,31.0,45,Hot,Dry,Breezy,14.65
+Casablanca,Casablanca-Settat,33.5992,-7.62,2026-09-16,26.0,21.1,0.0,0,13.7,35.6,2,Hot,Dry,Breezy,12.47
+Casablanca,Casablanca-Settat,33.5992,-7.62,2026-09-17,25.9,20.3,0.0,0,11.5,32.8,3,Hot,Dry,Breezy,11.25
+Casablanca,Casablanca-Settat,33.5992,-7.62,2026-09-18,25.5,19.4,0.0,3,12.1,34.6,3,Hot,Dry,Breezy,11.05
+Casablanca,Casablanca-Settat,33.5992,-7.62,2026-09-19,26.6,19.4,0.0,2,12.4,33.5,2,Hot,Dry,Breezy,12.58
+Casablanca,Casablanca-Settat,33.5992,-7.62,2026-09-20,31.8,21.9,0.0,3,12.0,31.0,2,Hot,Dry,Breezy,18.88
+Casablanca,Casablanca-Settat,33.5992,-7.62,2026-09-21,30.6,22.1,0.0,0,13.4,34.2,2,Hot,Dry,Breezy,18.08
+Chichaoua,Marrakech-Safi,31.5333,-8.7667,2026-09-15,38.4,25.2,0.0,5,23.9,38.5,2,Very Hot,Dry,Breezy,33.07
+Chichaoua,Marrakech-Safi,31.5333,-8.7667,2026-09-16,35.1,21.9,0.0,0,23.8,38.5,1,Very Hot,Dry,Breezy,28.9
+Chichaoua,Marrakech-Safi,31.5333,-8.7667,2026-09-17,29.7,18.5,0.0,0,18.4,32.0,3,Hot,Dry,Breezy,19.45
+Chichaoua,Marrakech-Safi,31.5333,-8.7667,2026-09-18,31.3,18.6,0.0,0,15.0,24.5,3,Hot,Dry,Breezy,19.75
+Chichaoua,Marrakech-Safi,31.5333,-8.7667,2026-09-19,34.8,18.8,0.0,0,16.6,26.3,2,Very Hot,Dry,Breezy,24.92
+Chichaoua,Marrakech-Safi,31.5333,-8.7667,2026-09-20,36.6,23.1,0.0,3,24.0,40.3,3,Very Hot,Dry,Breezy,30.88
+Chichaoua,Marrakech-Safi,31.5333,-8.7667,2026-09-21,36.3,24.2,0.0,3,18.3,31.7,2,Very Hot,Dry,Breezy,27.65
+Demnat,Béni Mellal-Khénifra,31.7311,-7.0361,2026-09-15,33.7,22.6,0.0,5,27.9,52.2,3,Very Hot,Dry,Breezy,29.2
+Demnat,Béni Mellal-Khénifra,31.7311,-7.0361,2026-09-16,30.1,17.9,0.0,0,17.7,33.1,2,Hot,Dry,Breezy,19.6
+Demnat,Béni Mellal-Khénifra,31.7311,-7.0361,2026-09-17,25.7,15.6,0.0,8,13.9,28.4,45,Hot,Dry,Breezy,14.33
+Demnat,Béni Mellal-Khénifra,31.7311,-7.0361,2026-09-18,27.7,15.7,0.0,8,12.8,24.8,3,Hot,Dry,Breezy,14.15
+Demnat,Béni Mellal-Khénifra,31.7311,-7.0361,2026-09-19,31.9,18.1,0.0,8,15.1,28.4,2,Hot,Dry,Breezy,20.55
+Demnat,Béni Mellal-Khénifra,31.7311,-7.0361,2026-09-20,34.7,22.4,0.0,9,13.5,28.1,3,Very Hot,Dry,Breezy,23.25
+Demnat,Béni Mellal-Khénifra,31.7311,-7.0361,2026-09-21,32.9,19.4,0.6,10,14.8,32.0,3,Very Hot,Light Rain,Breezy,22.1
+Douar Toulal,Fès-Meknès,33.8951,-5.6021,2026-09-15,34.1,21.8,0.0,0,18.1,40.7,2,Very Hot,Dry,Breezy,24.8
+Douar Toulal,Fès-Meknès,33.8951,-5.6021,2026-09-16,30.7,18.8,0.0,0,17.5,38.2,1,Hot,Dry,Breezy,20.25
+Douar Toulal,Fès-Meknès,33.8951,-5.6021,2026-09-17,28.1,17.7,0.0,0,16.0,36.0,45,Hot,Dry,Breezy,16.25
+Douar Toulal,Fès-Meknès,33.8951,-5.6021,2026-09-18,29.5,16.4,0.0,10,13.9,31.3,3,Hot,Dry,Breezy,16.95
+Douar Toulal,Fès-Meknès,33.8951,-5.6021,2026-09-19,34.3,18.2,0.0,3,11.6,27.0,3,Very Hot,Dry,Breezy,21.8
+Douar Toulal,Fès-Meknès,33.8951,-5.6021,2026-09-20,37.4,21.9,0.0,0,17.3,32.0,3,Very Hot,Dry,Breezy,28.52
+Douar Toulal,Fès-Meknès,33.8951,-5.6021,2026-09-21,37.6,22.5,0.0,0,20.1,37.4,2,Very Hot,Dry,Breezy,30.18
+El Aïoun,Oriental,34.5726,-2.5127,2026-09-15,32.4,16.8,0.0,0,14.0,24.1,3,Very Hot,Dry,Breezy,20.62
+El Aïoun,Oriental,34.5726,-2.5127,2026-09-16,32.5,15.9,0.0,0,21.3,36.0,0,Very Hot,Dry,Breezy,24.4
+El Aïoun,Oriental,34.5726,-2.5127,2026-09-17,30.2,16.6,0.3,4,19.0,32.8,3,Hot,Light Rain,Breezy,20.6
+El Aïoun,Oriental,34.5726,-2.5127,2026-09-18,28.4,18.3,0.0,13,19.9,34.9,45,Hot,Dry,Breezy,18.57
+El Aïoun,Oriental,34.5726,-2.5127,2026-09-19,29.4,17.0,0.0,8,21.3,39.6,3,Hot,Dry,Breezy,20.52
+El Aïoun,Oriental,34.5726,-2.5127,2026-09-20,31.1,18.3,0.0,1,18.9,33.1,45,Hot,Dry,Breezy,21.45
+El Aïoun,Oriental,34.5726,-2.5127,2026-09-21,30.0,16.9,0.0,3,16.2,27.7,45,Hot,Dry,Breezy,18.73
+El Hajeb,Fès-Meknès,33.6928,-5.3711,2026-09-15,32.3,21.9,0.0,0,20.1,42.5,1,Very Hot,Dry,Breezy,23.55
+El Hajeb,Fès-Meknès,33.6928,-5.3711,2026-09-16,29.0,17.8,0.0,0,19.4,40.3,1,Hot,Dry,Breezy,19.07
+El Hajeb,Fès-Meknès,33.6928,-5.3711,2026-09-17,26.5,15.9,0.0,5,17.4,36.7,3,Hot,Dry,Breezy,15.7
+El Hajeb,Fès-Meknès,33.6928,-5.3711,2026-09-18,26.9,15.9,0.0,15,15.8,33.5,3,Hot,Dry,Breezy,14.9
+El Hajeb,Fès-Meknès,33.6928,-5.3711,2026-09-19,30.6,17.0,0.0,8,20.6,43.6,3,Hot,Dry,Breezy,21.68
+El Hajeb,Fès-Meknès,33.6928,-5.3711,2026-09-20,33.6,22.9,0.0,8,21.7,42.1,3,Very Hot,Dry,Breezy,25.98
+El Hajeb,Fès-Meknès,33.6928,-5.3711,2026-09-21,34.1,22.3,0.0,8,22.5,43.6,2,Very Hot,Dry,Breezy,27.0
+El Jadid,Casablanca-Settat,33.2566,-8.5025,2026-09-15,27.2,21.5,0.0,0,16.8,30.6,45,Hot,Dry,Breezy,15.53
+El Jadid,Casablanca-Settat,33.2566,-8.5025,2026-09-16,25.4,21.4,0.0,0,18.7,34.2,2,Hot,Dry,Breezy,14.22
+El Jadid,Casablanca-Settat,33.2566,-8.5025,2026-09-17,25.7,20.3,0.0,0,16.1,28.8,3,Hot,Dry,Breezy,13.3
+El Jadid,Casablanca-Settat,33.2566,-8.5025,2026-09-18,25.3,20.1,0.0,0,17.7,31.7,3,Hot,Dry,Breezy,13.6
+El Jadid,Casablanca-Settat,33.2566,-8.5025,2026-09-19,25.8,19.8,0.0,0,17.5,32.8,2,Hot,Dry,Breezy,14.12
+El Jadid,Casablanca-Settat,33.2566,-8.5025,2026-09-20,29.5,21.9,0.0,0,15.9,31.0,2,Hot,Dry,Breezy,17.95
+El Jadid,Casablanca-Settat,33.2566,-8.5025,2026-09-21,28.5,21.8,0.0,0,13.8,28.4,2,Hot,Dry,Breezy,15.65
+El Kelaa des Srarhna,Marrakech-Safi,32.05,-7.4,2026-09-15,38.1,25.6,0.1,3,18.8,34.2,3,Very Hot,Light Rain,Breezy,30.23
+El Kelaa des Srarhna,Marrakech-Safi,32.05,-7.4,2026-09-16,34.4,20.9,0.0,0,19.8,33.8,0,Very Hot,Dry,Breezy,26.02
+El Kelaa des Srarhna,Marrakech-Safi,32.05,-7.4,2026-09-17,30.2,17.9,0.0,3,15.0,26.6,3,Hot,Dry,Breezy,18.38
+El Kelaa des Srarhna,Marrakech-Safi,32.05,-7.4,2026-09-18,31.3,18.2,0.0,10,13.5,24.5,3,Hot,Dry,Breezy,19.0
+El Kelaa des Srarhna,Marrakech-Safi,32.05,-7.4,2026-09-19,36.0,19.8,0.0,3,18.1,31.0,2,Very Hot,Dry,Breezy,27.18
+El Kelaa des Srarhna,Marrakech-Safi,32.05,-7.4,2026-09-20,38.6,23.1,0.0,3,11.3,20.2,3,Very Hot,Dry,Breezy,27.03
+El Kelaa des Srarhna,Marrakech-Safi,32.05,-7.4,2026-09-21,36.5,22.7,0.9,7,12.9,23.4,80,Very Hot,Light Rain,Breezy,25.88
+Errachidia,Drâa-Tafilalet,31.9319,-4.4244,2026-09-15,34.7,24.3,0.0,10,11.0,24.5,3,Very Hot,Dry,Breezy,22.0
+Errachidia,Drâa-Tafilalet,31.9319,-4.4244,2026-09-16,33.4,23.0,0.0,3,16.4,31.3,2,Very Hot,Dry,Breezy,23.07
+Errachidia,Drâa-Tafilalet,31.9319,-4.4244,2026-09-17,31.7,22.3,0.6,30,13.9,28.8,80,Hot,Light Rain,Breezy,20.15
+Errachidia,Drâa-Tafilalet,31.9319,-4.4244,2026-09-18,31.8,20.8,0.0,35,12.4,27.0,3,Hot,Dry,Breezy,19.07
+Errachidia,Drâa-Tafilalet,31.9319,-4.4244,2026-09-19,32.1,22.4,0.0,21,11.2,25.9,3,Very Hot,Dry,Breezy,18.85
+Errachidia,Drâa-Tafilalet,31.9319,-4.4244,2026-09-20,33.1,23.4,0.0,16,13.2,23.8,3,Very Hot,Dry,Breezy,21.1
+Errachidia,Drâa-Tafilalet,31.9319,-4.4244,2026-09-21,33.7,23.2,0.3,19,11.5,32.0,3,Very Hot,Light Rain,Breezy,21.23
+Essaouira,Marrakech-Safi,31.513,-9.7687,2026-09-15,27.5,22.7,0.0,3,24.7,46.8,3,Hot,Dry,Breezy,19.85
+Essaouira,Marrakech-Safi,31.513,-9.7687,2026-09-16,25.5,20.4,0.0,0,36.0,66.6,1,Hot,Dry,Strong Wind,23.0
+Essaouira,Marrakech-Safi,31.513,-9.7687,2026-09-17,24.3,19.3,0.0,0,27.7,51.5,3,Moderate,Dry,Breezy,17.35
+Essaouira,Marrakech-Safi,31.513,-9.7687,2026-09-18,24.5,19.5,0.0,0,30.0,55.4,3,Moderate,Dry,Breezy,18.75
+Essaouira,Marrakech-Safi,31.513,-9.7687,2026-09-19,24.9,19.3,0.0,0,29.6,55.4,2,Moderate,Dry,Breezy,19.05
+Essaouira,Marrakech-Safi,31.513,-9.7687,2026-09-20,28.0,19.8,0.0,0,14.7,25.9,2,Hot,Dry,Breezy,15.47
+Essaouira,Marrakech-Safi,31.513,-9.7687,2026-09-21,31.7,20.5,0.0,0,9.6,19.1,2,Hot,Dry,Calm,17.55
+Fnidq,Tanger-Tétouan-Al Hoceïma,35.8414,-5.3587,2026-09-15,27.7,21.3,0.0,0,11.3,22.3,2,Hot,Dry,Breezy,13.4
+Fnidq,Tanger-Tétouan-Al Hoceïma,35.8414,-5.3587,2026-09-16,29.5,20.6,0.0,0,30.6,59.4,1,Hot,Dry,Strong Wind,25.3
+Fnidq,Tanger-Tétouan-Al Hoceïma,35.8414,-5.3587,2026-09-17,27.4,17.7,0.0,0,13.0,26.6,3,Hot,Dry,Breezy,13.87
+Fnidq,Tanger-Tétouan-Al Hoceïma,35.8414,-5.3587,2026-09-18,24.9,20.8,0.0,8,16.8,33.5,3,Moderate,Dry,Breezy,12.65
+Fnidq,Tanger-Tétouan-Al Hoceïma,35.8414,-5.3587,2026-09-19,24.9,22.1,1.5,23,27.6,51.8,80,Moderate,Light Rain,Breezy,19.18
+Fnidq,Tanger-Tétouan-Al Hoceïma,35.8414,-5.3587,2026-09-20,25.7,22.5,1.2,13,32.2,58.3,80,Hot,Light Rain,Strong Wind,22.25
+Fnidq,Tanger-Tétouan-Al Hoceïma,35.8414,-5.3587,2026-09-21,25.4,22.1,0.0,0,30.1,53.3,2,Hot,Dry,Strong Wind,19.93
+Fès,Fès-Meknès,34.0433,-5.0033,2026-09-15,35.1,23.8,0.0,0,14.5,38.2,1,Very Hot,Dry,Breezy,24.25
+Fès,Fès-Meknès,34.0433,-5.0033,2026-09-16,31.8,21.0,0.0,0,16.7,40.3,1,Hot,Dry,Breezy,21.22
+Fès,Fès-Meknès,34.0433,-5.0033,2026-09-17,29.3,18.9,0.0,0,13.0,34.6,3,Hot,Dry,Breezy,16.25
+Fès,Fès-Meknès,34.0433,-5.0033,2026-09-18,30.9,18.1,0.0,10,9.4,25.2,3,Hot,Dry,Calm,16.45
+Fès,Fès-Meknès,34.0433,-5.0033,2026-09-19,33.9,20.8,0.0,4,16.3,41.0,3,Very Hot,Dry,Breezy,23.65
+Fès,Fès-Meknès,34.0433,-5.0033,2026-09-20,36.4,22.5,0.0,3,16.6,40.3,1,Very Hot,Dry,Breezy,26.92
+Fès,Fès-Meknès,34.0433,-5.0033,2026-09-21,37.6,23.2,0.0,0,10.9,30.6,2,Very Hot,Dry,Breezy,25.58
+Guelmim,Guelmim-Oued Noun,28.9833,-10.0667,2026-09-15,39.0,25.3,0.0,0,23.5,42.5,0,Very Hot,Dry,Breezy,33.62
+Guelmim,Guelmim-Oued Noun,28.9833,-10.0667,2026-09-16,36.4,20.9,0.0,0,31.4,51.8,0,Very Hot,Dry,Strong Wind,34.32
+Guelmim,Guelmim-Oued Noun,28.9833,-10.0667,2026-09-17,24.9,18.7,0.0,0,29.5,49.3,3,Moderate,Dry,Breezy,19.0
+Guelmim,Guelmim-Oued Noun,28.9833,-10.0667,2026-09-18,26.2,17.1,0.0,0,25.3,43.6,2,Hot,Dry,Breezy,18.52
+Guelmim,Guelmim-Oued Noun,28.9833,-10.0667,2026-09-19,28.2,18.2,0.0,0,19.2,36.4,3,Hot,Dry,Breezy,17.97
+Guelmim,Guelmim-Oued Noun,28.9833,-10.0667,2026-09-20,35.5,16.7,0.0,0,14.3,25.9,0,Very Hot,Dry,Breezy,24.65
+Guelmim,Guelmim-Oued Noun,28.9833,-10.0667,2026-09-21,39.1,23.2,0.0,6,22.3,37.4,0,Very Hot,Dry,Breezy,33.15
+Guercif,Oriental,34.23,-3.36,2026-09-15,33.8,18.9,0.0,0,23.2,42.8,3,Very Hot,Dry,Breezy,26.97
+Guercif,Oriental,34.23,-3.36,2026-09-16,34.9,19.1,0.0,0,25.0,44.6,1,Very Hot,Dry,Breezy,29.25
+Guercif,Oriental,34.23,-3.36,2026-09-17,31.7,20.2,0.0,5,29.7,56.9,3,Hot,Dry,Breezy,27.6
+Guercif,Oriental,34.23,-3.36,2026-09-18,29.9,19.6,0.0,10,27.3,49.7,3,Hot,Dry,Breezy,24.15
+Guercif,Oriental,34.23,-3.36,2026-09-19,30.1,19.5,0.0,13,31.1,61.6,3,Hot,Dry,Strong Wind,26.3
+Guercif,Oriental,34.23,-3.36,2026-09-20,31.0,20.6,0.0,3,26.8,48.2,3,Hot,Dry,Breezy,25.28
+Guercif,Oriental,34.23,-3.36,2026-09-21,30.9,19.8,0.0,3,28.2,51.1,2,Hot,Dry,Breezy,25.85
+Imi-n-Tanout,Marrakech-Safi,31.177,-8.8504,2026-09-15,33.7,25.5,0.0,5,26.1,45.7,3,Very Hot,Dry,Breezy,28.3
+Imi-n-Tanout,Marrakech-Safi,31.177,-8.8504,2026-09-16,30.5,20.3,0.0,0,26.1,46.1,1,Hot,Dry,Breezy,24.3
+Imi-n-Tanout,Marrakech-Safi,31.177,-8.8504,2026-09-17,25.0,16.5,0.0,0,18.4,31.7,45,Hot,Dry,Breezy,15.45
+Imi-n-Tanout,Marrakech-Safi,31.177,-8.8504,2026-09-18,27.0,16.1,0.0,3,16.3,28.8,45,Hot,Dry,Breezy,15.02
+Imi-n-Tanout,Marrakech-Safi,31.177,-8.8504,2026-09-19,30.3,20.0,0.0,5,15.2,27.4,2,Hot,Dry,Breezy,18.6
+Imi-n-Tanout,Marrakech-Safi,31.177,-8.8504,2026-09-20,34.3,24.3,0.6,5,17.1,40.3,80,Very Hot,Light Rain,Breezy,25.0
+Imi-n-Tanout,Marrakech-Safi,31.177,-8.8504,2026-09-21,33.6,24.7,0.0,5,18.5,31.7,3,Very Hot,Dry,Breezy,24.38
+Imzouren,Tanger-Tétouan-Al Hoceïma,35.1464,-3.8506,2026-09-15,27.1,19.8,0.0,0,11.5,21.2,45,Hot,Dry,Breezy,12.75
+Imzouren,Tanger-Tétouan-Al Hoceïma,35.1464,-3.8506,2026-09-16,30.1,20.7,0.0,0,13.2,23.8,1,Hot,Dry,Breezy,17.35
+Imzouren,Tanger-Tétouan-Al Hoceïma,35.1464,-3.8506,2026-09-17,26.1,19.0,0.0,3,17.0,30.2,3,Hot,Dry,Breezy,14.25
+Imzouren,Tanger-Tétouan-Al Hoceïma,35.1464,-3.8506,2026-09-18,26.3,18.9,0.0,10,17.7,32.0,3,Hot,Dry,Breezy,14.85
+Imzouren,Tanger-Tétouan-Al Hoceïma,35.1464,-3.8506,2026-09-19,29.6,18.4,0.0,8,23.7,43.2,3,Hot,Dry,Breezy,21.98
+Imzouren,Tanger-Tétouan-Al Hoceïma,35.1464,-3.8506,2026-09-20,31.0,19.6,0.0,5,16.5,34.9,1,Hot,Dry,Breezy,20.12
+Imzouren,Tanger-Tétouan-Al Hoceïma,35.1464,-3.8506,2026-09-21,30.6,21.3,0.0,0,16.5,32.8,2,Hot,Dry,Breezy,19.63
+Inezgane,Souss-Massa,30.3658,-9.5381,2026-09-15,32.6,24.4,0.0,8,10.4,30.2,3,Very Hot,Dry,Breezy,19.07
+Inezgane,Souss-Massa,30.3658,-9.5381,2026-09-16,32.4,21.8,0.0,0,11.9,33.5,45,Very Hot,Dry,Breezy,19.57
+Inezgane,Souss-Massa,30.3658,-9.5381,2026-09-17,27.8,21.0,0.0,0,15.8,43.6,3,Hot,Dry,Breezy,15.78
+Inezgane,Souss-Massa,30.3658,-9.5381,2026-09-18,25.5,20.2,0.0,0,14.1,39.2,2,Hot,Dry,Breezy,12.05
+Inezgane,Souss-Massa,30.3658,-9.5381,2026-09-19,25.5,20.4,0.0,0,14.5,39.6,45,Hot,Dry,Breezy,12.25
+Inezgane,Souss-Massa,30.3658,-9.5381,2026-09-20,30.0,19.9,0.0,0,13.8,28.4,45,Hot,Dry,Breezy,17.53
+Inezgane,Souss-Massa,30.3658,-9.5381,2026-09-21,39.5,24.7,0.0,0,16.7,34.9,1,Very Hot,Dry,Breezy,30.85
+Jerada,Oriental,34.31,-2.16,2026-09-15,30.5,19.2,0.0,0,18.5,34.9,2,Hot,Dry,Breezy,20.5
+Jerada,Oriental,34.31,-2.16,2026-09-16,29.6,18.0,0.0,0,22.0,41.0,1,Hot,Dry,Breezy,21.13
+Jerada,Oriental,34.31,-2.16,2026-09-17,28.9,17.5,0.5,11,17.3,35.3,80,Hot,Light Rain,Breezy,18.27
+Jerada,Oriental,34.31,-2.16,2026-09-18,26.4,16.3,0.0,18,20.6,44.6,3,Hot,Dry,Breezy,16.8
+Jerada,Oriental,34.31,-2.16,2026-09-19,27.4,15.6,0.0,20,19.6,57.2,2,Hot,Dry,Breezy,17.18
+Jerada,Oriental,34.31,-2.16,2026-09-20,30.9,18.5,0.0,7,21.4,38.9,2,Hot,Dry,Breezy,22.45
+Jerada,Oriental,34.31,-2.16,2026-09-21,29.8,15.7,0.0,5,22.5,41.0,3,Hot,Dry,Breezy,21.62
+Kenitra,Rabat-Salé-Kénitra,34.25,-6.5833,2026-09-15,29.2,21.2,0.0,0,12.6,32.0,45,Hot,Dry,Breezy,15.93
+Kenitra,Rabat-Salé-Kénitra,34.25,-6.5833,2026-09-16,27.1,20.9,0.0,0,16.5,39.2,2,Hot,Dry,Breezy,15.25
+Kenitra,Rabat-Salé-Kénitra,34.25,-6.5833,2026-09-17,27.0,18.8,0.0,0,12.2,30.6,3,Hot,Dry,Breezy,12.97
+Kenitra,Rabat-Salé-Kénitra,34.25,-6.5833,2026-09-18,27.6,16.4,0.0,3,13.9,33.5,45,Hot,Dry,Breezy,14.58
+Kenitra,Rabat-Salé-Kénitra,34.25,-6.5833,2026-09-19,31.5,16.9,0.0,3,14.7,38.2,45,Hot,Dry,Breezy,19.85
+Kenitra,Rabat-Salé-Kénitra,34.25,-6.5833,2026-09-20,35.7,23.2,0.0,0,13.0,29.5,2,Very Hot,Dry,Breezy,24.25
+Kenitra,Rabat-Salé-Kénitra,34.25,-6.5833,2026-09-21,30.4,22.4,0.0,0,12.0,28.1,2,Hot,Dry,Breezy,17.12
+Khénifra,Béni Mellal-Khénifra,32.93,-5.66,2026-09-15,35.6,20.1,0.0,3,20.0,37.4,3,Very Hot,Dry,Breezy,27.62
+Khénifra,Béni Mellal-Khénifra,32.93,-5.66,2026-09-16,31.7,16.3,0.0,0,15.7,30.6,1,Hot,Dry,Breezy,20.6
+Khénifra,Béni Mellal-Khénifra,32.93,-5.66,2026-09-17,31.4,16.0,0.0,13,18.7,35.3,3,Hot,Dry,Breezy,21.73
+Khénifra,Béni Mellal-Khénifra,32.93,-5.66,2026-09-18,31.0,15.6,0.0,13,14.1,26.3,3,Hot,Dry,Breezy,18.93
+Khénifra,Béni Mellal-Khénifra,32.93,-5.66,2026-09-19,34.3,18.1,0.0,3,15.8,31.0,2,Very Hot,Dry,Breezy,23.9
+Khénifra,Béni Mellal-Khénifra,32.93,-5.66,2026-09-20,36.6,22.5,0.0,3,18.9,33.8,2,Very Hot,Dry,Breezy,28.32
+Khénifra,Béni Mellal-Khénifra,32.93,-5.66,2026-09-21,34.6,24.1,0.9,8,16.4,31.0,80,Very Hot,Light Rain,Breezy,25.25
+Kouribga,Béni Mellal-Khénifra,32.88,-6.9,2026-09-15,34.9,23.7,0.0,3,23.6,46.1,3,Very Hot,Dry,Breezy,28.55
+Kouribga,Béni Mellal-Khénifra,32.88,-6.9,2026-09-16,31.5,17.5,0.0,0,19.9,38.2,2,Hot,Dry,Breezy,22.45
+Kouribga,Béni Mellal-Khénifra,32.88,-6.9,2026-09-17,28.3,14.9,0.0,0,18.1,34.2,3,Hot,Dry,Breezy,17.55
+Kouribga,Béni Mellal-Khénifra,32.88,-6.9,2026-09-18,29.4,15.3,0.0,10,15.5,31.0,3,Hot,Dry,Breezy,17.62
+Kouribga,Béni Mellal-Khénifra,32.88,-6.9,2026-09-19,33.7,17.5,0.0,6,17.2,33.1,2,Very Hot,Dry,Breezy,23.85
+Kouribga,Béni Mellal-Khénifra,32.88,-6.9,2026-09-20,36.8,23.4,0.0,5,22.3,46.4,2,Very Hot,Dry,Breezy,30.27
+Kouribga,Béni Mellal-Khénifra,32.88,-6.9,2026-09-21,34.9,23.0,1.2,5,11.0,25.9,3,Very Hot,Light Rain,Breezy,23.15
+Ksar El Kebir,Tanger-Tétouan-Al Hoceïma,35.0,-5.9,2026-09-15,35.6,20.9,0.0,0,23.5,43.6,45,Very Hot,Dry,Breezy,29.38
+Ksar El Kebir,Tanger-Tétouan-Al Hoceïma,35.0,-5.9,2026-09-16,30.9,19.8,0.0,0,16.9,33.1,3,Hot,Dry,Breezy,20.2
+Ksar El Kebir,Tanger-Tétouan-Al Hoceïma,35.0,-5.9,2026-09-17,29.2,18.9,0.0,0,17.1,33.1,3,Hot,Dry,Breezy,18.18
+Ksar El Kebir,Tanger-Tétouan-Al Hoceïma,35.0,-5.9,2026-09-18,30.6,16.3,0.0,3,17.9,34.6,45,Hot,Dry,Breezy,20.33
+Ksar El Kebir,Tanger-Tétouan-Al Hoceïma,35.0,-5.9,2026-09-19,36.0,18.2,0.0,3,10.6,22.3,45,Very Hot,Dry,Breezy,23.43
+Ksar El Kebir,Tanger-Tétouan-Al Hoceïma,35.0,-5.9,2026-09-20,39.1,21.4,0.0,3,11.5,25.6,0,Very Hot,Dry,Breezy,27.75
+Ksar El Kebir,Tanger-Tétouan-Al Hoceïma,35.0,-5.9,2026-09-21,39.0,23.1,0.0,0,12.5,25.6,1,Very Hot,Dry,Breezy,28.12
+Larache,Tanger-Tétouan-Al Hoceïma,35.1833,-6.15,2026-09-15,29.8,19.4,0.0,0,22.5,41.4,1,Hot,Dry,Breezy,21.62
+Larache,Tanger-Tétouan-Al Hoceïma,35.1833,-6.15,2026-09-16,27.4,18.4,0.0,0,16.2,31.3,3,Hot,Dry,Breezy,15.47
+Larache,Tanger-Tétouan-Al Hoceïma,35.1833,-6.15,2026-09-17,26.3,18.0,0.0,1,13.8,26.3,3,Hot,Dry,Breezy,12.9
+Larache,Tanger-Tétouan-Al Hoceïma,35.1833,-6.15,2026-09-18,26.3,15.9,0.0,5,17.3,33.1,45,Hot,Dry,Breezy,15.65
+Larache,Tanger-Tétouan-Al Hoceïma,35.1833,-6.15,2026-09-19,35.2,16.5,0.0,3,18.2,34.9,2,Very Hot,Dry,Breezy,26.23
+Larache,Tanger-Tétouan-Al Hoceïma,35.1833,-6.15,2026-09-20,38.2,23.3,0.0,3,16.6,32.0,0,Very Hot,Dry,Breezy,29.18
+Larache,Tanger-Tétouan-Al Hoceïma,35.1833,-6.15,2026-09-21,36.0,21.4,0.0,3,13.1,25.2,1,Very Hot,Dry,Breezy,24.68
+Laâyoune,Laâyoune-Sakia El Hamra,27.15,-13.2,2026-09-15,39.4,25.2,0.0,0,24.7,46.8,0,Very Hot,Dry,Breezy,34.72
+Laâyoune,Laâyoune-Sakia El Hamra,27.15,-13.2,2026-09-16,35.7,21.9,0.0,0,26.4,51.1,0,Very Hot,Dry,Breezy,30.95
+Laâyoune,Laâyoune-Sakia El Hamra,27.15,-13.2,2026-09-17,28.4,21.5,0.0,0,31.4,59.8,3,Hot,Dry,Strong Wind,24.32
+Laâyoune,Laâyoune-Sakia El Hamra,27.15,-13.2,2026-09-18,27.9,20.3,0.0,0,27.7,54.0,3,Hot,Dry,Breezy,21.85
+Laâyoune,Laâyoune-Sakia El Hamra,27.15,-13.2,2026-09-19,28.8,18.3,0.0,2,24.1,47.2,1,Hot,Dry,Breezy,21.18
+Laâyoune,Laâyoune-Sakia El Hamra,27.15,-13.2,2026-09-20,32.8,18.7,0.0,0,22.0,43.9,2,Very Hot,Dry,Breezy,25.12
+Laâyoune,Laâyoune-Sakia El Hamra,27.15,-13.2,2026-09-21,35.3,20.0,0.0,4,20.7,45.7,0,Very Hot,Dry,Breezy,27.6
+Lqoliaa,Souss-Massa,30.2942,-9.4544,2026-09-15,36.0,25.7,0.0,3,16.8,37.1,3,Very Hot,Dry,Breezy,26.52
+Lqoliaa,Souss-Massa,30.2942,-9.4544,2026-09-16,31.8,21.6,0.0,0,22.5,45.4,1,Hot,Dry,Breezy,24.12
+Lqoliaa,Souss-Massa,30.2942,-9.4544,2026-09-17,28.2,21.1,0.0,0,20.9,46.4,3,Hot,Dry,Breezy,18.82
+Lqoliaa,Souss-Massa,30.2942,-9.4544,2026-09-18,27.7,20.1,0.0,0,18.8,41.4,3,Hot,Dry,Breezy,17.15
+Lqoliaa,Souss-Massa,30.2942,-9.4544,2026-09-19,28.1,20.5,0.0,0,22.1,47.5,2,Hot,Dry,Breezy,19.3
+Lqoliaa,Souss-Massa,30.2942,-9.4544,2026-09-20,27.6,20.3,0.0,0,17.4,39.6,2,Hot,Dry,Breezy,16.32
+Lqoliaa,Souss-Massa,30.2942,-9.4544,2026-09-21,35.9,21.3,0.0,0,15.1,34.9,1,Very Hot,Dry,Breezy,25.55
+Marrakech,Marrakech-Safi,31.6295,-7.9811,2026-09-15,38.0,25.6,0.0,3,10.7,32.8,3,Very Hot,Dry,Breezy,25.97
+Marrakech,Marrakech-Safi,31.6295,-7.9811,2026-09-16,35.0,22.0,0.0,0,12.7,34.9,1,Very Hot,Dry,Breezy,23.23
+Marrakech,Marrakech-Safi,31.6295,-7.9811,2026-09-17,30.1,19.1,0.0,0,10.6,27.7,3,Hot,Dry,Breezy,16.05
+Marrakech,Marrakech-Safi,31.6295,-7.9811,2026-09-18,31.9,19.3,0.0,5,7.2,23.8,3,Hot,Dry,Calm,16.6
+Marrakech,Marrakech-Safi,31.6295,-7.9811,2026-09-19,36.4,20.7,0.0,4,9.3,26.3,2,Very Hot,Dry,Calm,23.27
+Marrakech,Marrakech-Safi,31.6295,-7.9811,2026-09-20,39.7,23.8,0.0,5,21.1,36.0,3,Very Hot,Dry,Breezy,33.3
+Marrakech,Marrakech-Safi,31.6295,-7.9811,2026-09-21,37.5,23.6,0.0,3,17.3,29.5,1,Very Hot,Dry,Breezy,28.65
+Martil,Tanger-Tétouan-Al Hoceïma,35.61,-5.27,2026-09-15,26.8,21.7,0.0,0,10.0,24.5,2,Hot,Dry,Breezy,11.62
+Martil,Tanger-Tétouan-Al Hoceïma,35.61,-5.27,2026-09-16,32.4,20.9,0.0,0,26.6,60.1,3,Very Hot,Dry,Breezy,26.92
+Martil,Tanger-Tétouan-Al Hoceïma,35.61,-5.27,2026-09-17,26.0,16.9,0.0,0,13.3,31.0,3,Hot,Dry,Breezy,12.4
+Martil,Tanger-Tétouan-Al Hoceïma,35.61,-5.27,2026-09-18,25.1,20.9,0.0,8,15.8,36.4,45,Hot,Dry,Breezy,12.4
+Martil,Tanger-Tétouan-Al Hoceïma,35.61,-5.27,2026-09-19,25.1,22.0,0.9,23,23.5,55.4,2,Hot,Light Rain,Breezy,16.93
+Martil,Tanger-Tétouan-Al Hoceïma,35.61,-5.27,2026-09-20,25.7,22.6,0.6,13,32.2,58.3,2,Hot,Light Rain,Strong Wind,21.8
+Martil,Tanger-Tétouan-Al Hoceïma,35.61,-5.27,2026-09-21,25.5,22.2,0.0,0,30.1,53.3,2,Hot,Dry,Strong Wind,20.05
+Mechraa Bel Ksiri,Rabat-Salé-Kénitra,34.56,-5.95,2026-09-15,34.9,20.8,0.0,0,18.4,34.6,45,Very Hot,Dry,Breezy,25.95
+Mechraa Bel Ksiri,Rabat-Salé-Kénitra,34.56,-5.95,2026-09-16,30.3,19.5,0.0,0,19.7,36.0,2,Hot,Dry,Breezy,20.85
+Mechraa Bel Ksiri,Rabat-Salé-Kénitra,34.56,-5.95,2026-09-17,29.6,18.7,0.0,1,16.9,31.3,3,Hot,Dry,Breezy,18.58
+Mechraa Bel Ksiri,Rabat-Salé-Kénitra,34.56,-5.95,2026-09-18,31.5,16.3,0.0,8,18.0,33.1,45,Hot,Dry,Breezy,21.5
+Mechraa Bel Ksiri,Rabat-Salé-Kénitra,34.56,-5.95,2026-09-19,36.5,17.3,0.0,2,15.9,28.1,45,Very Hot,Dry,Breezy,26.7
+Mechraa Bel Ksiri,Rabat-Salé-Kénitra,34.56,-5.95,2026-09-20,39.9,24.6,0.0,3,21.7,41.0,1,Very Hot,Dry,Breezy,33.85
+Mechraa Bel Ksiri,Rabat-Salé-Kénitra,34.56,-5.95,2026-09-21,39.9,23.9,0.0,0,18.5,34.2,1,Very Hot,Dry,Breezy,32.25
+Mediouna,Casablanca-Settat,33.4556,-7.5208,2026-09-15,33.6,20.8,0.0,0,17.8,32.0,45,Very Hot,Dry,Breezy,24.03
+Mediouna,Casablanca-Settat,33.4556,-7.5208,2026-09-16,28.1,19.7,0.0,0,17.5,31.7,2,Hot,Dry,Breezy,17.0
+Mediouna,Casablanca-Settat,33.4556,-7.5208,2026-09-17,27.6,19.0,0.0,0,16.4,30.2,3,Hot,Dry,Breezy,15.82
+Mediouna,Casablanca-Settat,33.4556,-7.5208,2026-09-18,28.2,17.4,0.0,3,18.2,32.4,3,Hot,Dry,Breezy,17.47
+Mediouna,Casablanca-Settat,33.4556,-7.5208,2026-09-19,30.5,17.2,0.0,2,18.4,32.8,2,Hot,Dry,Breezy,20.45
+Mediouna,Casablanca-Settat,33.4556,-7.5208,2026-09-20,31.2,21.6,0.0,3,12.0,31.0,2,Hot,Dry,Breezy,18.12
+Mediouna,Casablanca-Settat,33.4556,-7.5208,2026-09-21,29.6,21.1,0.0,0,13.4,34.2,2,Hot,Dry,Breezy,16.83
+Mehdya,Rabat-Salé-Kénitra,34.2557,-6.6745,2026-09-15,28.0,21.0,0.0,0,12.6,28.1,45,Hot,Dry,Breezy,14.42
+Mehdya,Rabat-Salé-Kénitra,34.2557,-6.6745,2026-09-16,26.8,21.1,0.0,0,15.8,34.9,2,Hot,Dry,Breezy,14.52
+Mehdya,Rabat-Salé-Kénitra,34.2557,-6.6745,2026-09-17,26.4,19.0,0.0,0,11.9,27.4,3,Hot,Dry,Breezy,12.07
+Mehdya,Rabat-Salé-Kénitra,34.2557,-6.6745,2026-09-18,26.5,16.9,0.0,3,14.0,30.6,45,Hot,Dry,Breezy,13.25
+Mehdya,Rabat-Salé-Kénitra,34.2557,-6.6745,2026-09-19,31.2,17.3,0.0,3,15.7,34.6,45,Hot,Dry,Breezy,19.97
+Mehdya,Rabat-Salé-Kénitra,34.2557,-6.6745,2026-09-20,35.7,23.3,0.0,0,13.0,29.5,2,Very Hot,Dry,Breezy,24.25
+Mehdya,Rabat-Salé-Kénitra,34.2557,-6.6745,2026-09-21,30.4,22.4,0.0,0,12.0,28.1,2,Hot,Dry,Breezy,17.12
+Meknès,Fès-Meknès,33.8833,-5.55,2026-09-15,33.8,21.8,0.0,0,16.1,41.4,2,Very Hot,Dry,Breezy,23.42
+Meknès,Fès-Meknès,33.8833,-5.55,2026-09-16,30.4,18.7,0.0,0,15.5,40.3,1,Hot,Dry,Breezy,18.87
+Meknès,Fès-Meknès,33.8833,-5.55,2026-09-17,27.7,17.5,0.0,0,14.5,36.7,45,Hot,Dry,Breezy,15.0
+Meknès,Fès-Meknès,33.8833,-5.55,2026-09-18,29.3,16.4,0.0,8,12.3,32.0,3,Hot,Dry,Breezy,15.9
+Meknès,Fès-Meknès,33.8833,-5.55,2026-09-19,33.7,18.2,0.0,3,11.7,31.7,3,Very Hot,Dry,Breezy,21.1
+Meknès,Fès-Meknès,33.8833,-5.55,2026-09-20,36.5,21.4,0.0,3,16.7,37.4,2,Very Hot,Dry,Breezy,27.1
+Meknès,Fès-Meknès,33.8833,-5.55,2026-09-21,37.3,22.6,0.0,0,16.4,37.1,2,Very Hot,Dry,Breezy,27.95
+Midalt,Drâa-Tafilalet,32.68,-4.74,2026-09-15,30.2,18.2,0.0,8,20.3,34.9,3,Hot,Dry,Breezy,21.02
+Midalt,Drâa-Tafilalet,32.68,-4.74,2026-09-16,27.2,17.3,0.0,0,22.7,41.4,1,Hot,Dry,Breezy,18.47
+Midalt,Drâa-Tafilalet,32.68,-4.74,2026-09-17,27.3,14.5,1.7,45,18.0,36.4,80,Hot,Light Rain,Breezy,19.02
+Midalt,Drâa-Tafilalet,32.68,-4.74,2026-09-18,27.4,14.2,0.1,18,25.4,42.5,3,Hot,Light Rain,Breezy,21.9
+Midalt,Drâa-Tafilalet,32.68,-4.74,2026-09-19,27.4,13.6,0.0,20,18.9,33.8,2,Hot,Dry,Breezy,19.32
+Midalt,Drâa-Tafilalet,32.68,-4.74,2026-09-20,30.7,15.1,0.0,12,16.1,24.8,2,Hot,Dry,Breezy,19.55
+Midalt,Drâa-Tafilalet,32.68,-4.74,2026-09-21,29.6,16.6,1.2,13,26.6,45.0,80,Hot,Light Rain,Breezy,24.33
+Missour,Fès-Meknès,33.05,-3.9908,2026-09-15,35.7,20.6,0.0,15,22.2,38.5,3,Very Hot,Dry,Breezy,28.85
+Missour,Fès-Meknès,33.05,-3.9908,2026-09-16,32.6,18.3,0.0,0,22.2,36.7,1,Very Hot,Dry,Breezy,24.98
+Missour,Fès-Meknès,33.05,-3.9908,2026-09-17,31.5,17.4,0.5,25,19.2,30.6,80,Hot,Light Rain,Breezy,22.48
+Missour,Fès-Meknès,33.05,-3.9908,2026-09-18,30.0,16.6,0.0,18,29.0,46.8,3,Hot,Dry,Breezy,25.12
+Missour,Fès-Meknès,33.05,-3.9908,2026-09-19,30.5,17.6,0.0,23,20.8,42.1,3,Hot,Dry,Breezy,21.65
+Missour,Fès-Meknès,33.05,-3.9908,2026-09-20,34.4,18.4,0.0,11,22.9,35.6,3,Very Hot,Dry,Breezy,27.57
+Missour,Fès-Meknès,33.05,-3.9908,2026-09-21,32.3,20.1,1.5,9,12.9,24.5,80,Very Hot,Light Rain,Breezy,21.07
+Mohammedia,Casablanca-Settat,33.6833,-7.3833,2026-09-15,27.5,21.2,0.0,0,13.0,30.2,45,Hot,Dry,Breezy,14.0
+Mohammedia,Casablanca-Settat,33.6833,-7.3833,2026-09-16,25.6,20.6,0.0,0,15.5,36.0,2,Hot,Dry,Breezy,12.88
+Mohammedia,Casablanca-Settat,33.6833,-7.3833,2026-09-17,25.4,20.1,0.0,0,13.5,32.0,3,Hot,Dry,Breezy,11.62
+Mohammedia,Casablanca-Settat,33.6833,-7.3833,2026-09-18,24.9,18.6,0.0,3,13.8,33.1,3,Moderate,Dry,Breezy,11.15
+Mohammedia,Casablanca-Settat,33.6833,-7.3833,2026-09-19,26.4,17.7,0.0,2,14.1,33.5,2,Hot,Dry,Breezy,13.17
+Mohammedia,Casablanca-Settat,33.6833,-7.3833,2026-09-20,34.2,20.5,0.0,3,17.0,31.3,2,Very Hot,Dry,Breezy,24.38
+Mohammedia,Casablanca-Settat,33.6833,-7.3833,2026-09-21,33.0,22.4,0.0,0,17.3,32.8,45,Very Hot,Dry,Breezy,23.03
+Moulay Abdallah,Casablanca-Settat,33.1978,-8.5883,2026-09-15,29.0,21.7,0.0,0,19.7,32.0,45,Hot,Dry,Breezy,19.23
+Moulay Abdallah,Casablanca-Settat,33.1978,-8.5883,2026-09-16,26.2,21.4,0.0,0,20.9,33.5,45,Hot,Dry,Breezy,16.32
+Moulay Abdallah,Casablanca-Settat,33.1978,-8.5883,2026-09-17,26.3,19.9,0.0,0,18.3,29.2,3,Hot,Dry,Breezy,15.15
+Moulay Abdallah,Casablanca-Settat,33.1978,-8.5883,2026-09-18,26.2,20.2,0.0,0,19.5,31.0,3,Hot,Dry,Breezy,15.62
+Moulay Abdallah,Casablanca-Settat,33.1978,-8.5883,2026-09-19,27.2,19.6,0.0,0,19.7,32.8,2,Hot,Dry,Breezy,16.98
+Moulay Abdallah,Casablanca-Settat,33.1978,-8.5883,2026-09-20,30.3,21.7,0.0,0,16.9,32.0,2,Hot,Dry,Breezy,19.45
+Moulay Abdallah,Casablanca-Settat,33.1978,-8.5883,2026-09-21,27.8,21.7,0.0,0,12.8,25.9,45,Hot,Dry,Breezy,14.28
+Moulay Bousselham,Rabat-Salé-Kénitra,34.8786,-6.2933,2026-09-15,27.6,19.4,0.0,0,22.6,36.7,45,Hot,Dry,Breezy,18.93
+Moulay Bousselham,Rabat-Salé-Kénitra,34.8786,-6.2933,2026-09-16,25.7,18.9,0.0,0,16.7,28.1,45,Hot,Dry,Breezy,13.6
+Moulay Bousselham,Rabat-Salé-Kénitra,34.8786,-6.2933,2026-09-17,25.3,18.5,0.0,0,14.3,23.8,3,Hot,Dry,Breezy,11.9
+Moulay Bousselham,Rabat-Salé-Kénitra,34.8786,-6.2933,2026-09-18,25.0,16.1,0.0,3,18.6,31.3,45,Hot,Dry,Breezy,16.05
+Moulay Bousselham,Rabat-Salé-Kénitra,34.8786,-6.2933,2026-09-19,29.7,17.8,0.0,3,15.2,26.3,45,Hot,Dry,Breezy,17.85
+Moulay Bousselham,Rabat-Salé-Kénitra,34.8786,-6.2933,2026-09-20,37.7,20.3,0.0,3,13.1,24.6,0,Very Hot,Dry,Breezy,26.8
+Moulay Bousselham,Rabat-Salé-Kénitra,34.8786,-6.2933,2026-09-21,35.9,20.9,0.0,0,17.5,33.8,0,Very Hot,Dry,Breezy,26.75
+Mrirt,Béni Mellal-Khénifra,33.1654,-5.5634,2026-09-15,33.9,19.7,0.0,0,20.3,41.8,3,Very Hot,Dry,Breezy,25.65
+Mrirt,Béni Mellal-Khénifra,33.1654,-5.5634,2026-09-16,30.5,14.5,0.0,0,18.7,38.5,3,Hot,Dry,Breezy,20.6
+Mrirt,Béni Mellal-Khénifra,33.1654,-5.5634,2026-09-17,29.7,15.0,0.0,13,20.2,40.7,3,Hot,Dry,Breezy,20.35
+Mrirt,Béni Mellal-Khénifra,33.1654,-5.5634,2026-09-18,29.6,14.1,0.0,15,17.9,36.7,3,Hot,Dry,Breezy,19.08
+Mrirt,Béni Mellal-Khénifra,33.1654,-5.5634,2026-09-19,32.7,15.9,0.0,8,16.8,38.2,3,Very Hot,Dry,Breezy,22.4
+Mrirt,Béni Mellal-Khénifra,33.1654,-5.5634,2026-09-20,34.9,19.3,0.0,5,18.4,45.4,3,Very Hot,Dry,Breezy,25.95
+Mrirt,Béni Mellal-Khénifra,33.1654,-5.5634,2026-09-21,32.3,18.5,1.2,17,11.1,33.1,80,Very Hot,Light Rain,Breezy,19.95
+My Drarga,Souss-Massa,30.3805,-9.4763,2026-09-15,34.5,26.0,0.0,8,12.6,27.0,3,Very Hot,Dry,Breezy,22.55
+My Drarga,Souss-Massa,30.3805,-9.4763,2026-09-16,32.1,22.7,0.0,0,16.8,33.8,45,Very Hot,Dry,Breezy,21.65
+My Drarga,Souss-Massa,30.3805,-9.4763,2026-09-17,28.5,20.9,0.0,0,20.1,43.6,3,Hot,Dry,Breezy,18.8
+My Drarga,Souss-Massa,30.3805,-9.4763,2026-09-18,26.9,20.0,0.0,0,17.4,39.2,2,Hot,Dry,Breezy,15.45
+My Drarga,Souss-Massa,30.3805,-9.4763,2026-09-19,27.2,20.4,0.0,0,17.3,38.2,45,Hot,Dry,Breezy,15.78
+My Drarga,Souss-Massa,30.3805,-9.4763,2026-09-20,29.8,20.3,0.0,0,13.8,28.4,45,Hot,Dry,Breezy,17.28
+My Drarga,Souss-Massa,30.3805,-9.4763,2026-09-21,39.4,24.5,0.0,0,16.7,34.9,1,Very Hot,Dry,Breezy,30.72
+M’diq,Tanger-Tétouan-Al Hoceïma,35.68,-5.32,2026-09-15,26.7,21.5,0.0,0,10.0,24.5,2,Hot,Dry,Breezy,11.5
+M’diq,Tanger-Tétouan-Al Hoceïma,35.68,-5.32,2026-09-16,32.3,20.7,0.0,0,26.6,60.1,3,Very Hot,Dry,Breezy,26.8
+M’diq,Tanger-Tétouan-Al Hoceïma,35.68,-5.32,2026-09-17,25.8,16.8,0.0,0,13.3,31.0,3,Hot,Dry,Breezy,12.53
+M’diq,Tanger-Tétouan-Al Hoceïma,35.68,-5.32,2026-09-18,25.0,20.7,0.0,8,15.8,36.4,45,Hot,Dry,Breezy,12.28
+M’diq,Tanger-Tétouan-Al Hoceïma,35.68,-5.32,2026-09-19,25.0,21.8,0.9,5,23.5,55.4,2,Hot,Light Rain,Breezy,16.8
+M’diq,Tanger-Tétouan-Al Hoceïma,35.68,-5.32,2026-09-20,26.7,22.5,0.6,5,36.4,77.8,2,Hot,Light Rain,Strong Wind,25.15
+M’diq,Tanger-Tétouan-Al Hoceïma,35.68,-5.32,2026-09-21,26.8,22.6,0.0,0,32.4,67.3,2,Hot,Dry,Strong Wind,22.82
+Nador,Oriental,35.1667,-2.9333,2026-09-15,26.8,21.7,0.0,0,11.0,25.9,2,Hot,Dry,Breezy,12.12
+Nador,Oriental,35.1667,-2.9333,2026-09-16,30.2,21.9,0.0,0,9.7,26.3,2,Hot,Dry,Calm,15.72
+Nador,Oriental,35.1667,-2.9333,2026-09-17,26.8,21.5,0.1,5,17.0,38.2,3,Hot,Light Rain,Breezy,15.2
+Nador,Oriental,35.1667,-2.9333,2026-09-18,25.2,22.2,1.6,10,14.0,31.7,80,Hot,Light Rain,Breezy,12.83
+Nador,Oriental,35.1667,-2.9333,2026-09-19,25.6,22.5,0.3,8,20.5,44.3,3,Hot,Light Rain,Breezy,15.6
+Nador,Oriental,35.1667,-2.9333,2026-09-20,26.4,23.3,0.0,5,24.7,45.4,3,Hot,Dry,Breezy,18.47
+Nador,Oriental,35.1667,-2.9333,2026-09-21,26.7,21.8,0.0,0,23.9,41.4,2,Hot,Dry,Breezy,18.45
+Oued Zem,Béni Mellal-Khénifra,32.8619,-6.5711,2026-09-15,35.6,22.9,0.0,0,21.5,42.8,3,Very Hot,Dry,Breezy,28.38
+Oued Zem,Béni Mellal-Khénifra,32.8619,-6.5711,2026-09-16,32.1,18.9,0.0,0,18.5,39.6,1,Very Hot,Dry,Breezy,22.5
+Oued Zem,Béni Mellal-Khénifra,32.8619,-6.5711,2026-09-17,29.7,16.2,0.0,3,17.0,34.2,3,Hot,Dry,Breezy,18.75
+Oued Zem,Béni Mellal-Khénifra,32.8619,-6.5711,2026-09-18,30.6,16.3,0.0,13,16.1,32.4,3,Hot,Dry,Breezy,19.43
+Oued Zem,Béni Mellal-Khénifra,32.8619,-6.5711,2026-09-19,34.6,18.3,0.0,6,18.5,36.0,2,Very Hot,Dry,Breezy,25.62
+Oued Zem,Béni Mellal-Khénifra,32.8619,-6.5711,2026-09-20,37.0,24.2,0.0,3,20.8,37.8,2,Very Hot,Dry,Breezy,29.78
+Oued Zem,Béni Mellal-Khénifra,32.8619,-6.5711,2026-09-21,34.1,23.2,0.3,0,15.5,35.6,3,Very Hot,Light Rain,Breezy,23.73
+Ouezzane,Tanger-Tétouan-Al Hoceïma,34.8,-5.6,2026-09-15,35.3,19.8,0.0,0,19.6,41.8,0,Very Hot,Dry,Breezy,27.05
+Ouezzane,Tanger-Tétouan-Al Hoceïma,34.8,-5.6,2026-09-16,30.6,17.2,0.0,0,17.3,34.6,3,Hot,Dry,Breezy,20.03
+Ouezzane,Tanger-Tétouan-Al Hoceïma,34.8,-5.6,2026-09-17,29.3,16.6,0.0,1,20.6,39.6,3,Hot,Dry,Breezy,20.05
+Ouezzane,Tanger-Tétouan-Al Hoceïma,34.8,-5.6,2026-09-18,31.0,16.1,0.0,8,16.4,32.8,3,Hot,Dry,Breezy,20.07
+Ouezzane,Tanger-Tétouan-Al Hoceïma,34.8,-5.6,2026-09-19,36.0,17.0,0.0,6,11.9,27.7,2,Very Hot,Dry,Breezy,24.07
+Ouezzane,Tanger-Tétouan-Al Hoceïma,34.8,-5.6,2026-09-20,38.5,20.0,0.0,0,17.7,34.9,0,Very Hot,Dry,Breezy,30.1
+Ouezzane,Tanger-Tétouan-Al Hoceïma,34.8,-5.6,2026-09-21,38.7,23.7,0.0,0,14.0,28.4,1,Very Hot,Dry,Breezy,28.5
+Oujda-Angad,Oriental,34.6867,-1.9114,2026-09-15,31.0,16.2,0.0,0,17.3,36.0,2,Hot,Dry,Breezy,20.52
+Oujda-Angad,Oriental,34.6867,-1.9114,2026-09-16,32.6,15.7,0.0,0,19.9,41.0,1,Very Hot,Dry,Breezy,23.83
+Oujda-Angad,Oriental,34.6867,-1.9114,2026-09-17,28.7,15.9,0.0,8,20.9,46.8,3,Hot,Dry,Breezy,19.45
+Oujda-Angad,Oriental,34.6867,-1.9114,2026-09-18,27.6,18.0,0.0,23,21.3,45.0,45,Hot,Dry,Breezy,18.28
+Oujda-Angad,Oriental,34.6867,-1.9114,2026-09-19,28.2,17.7,0.0,28,19.7,42.1,45,Hot,Dry,Breezy,18.22
+Oujda-Angad,Oriental,34.6867,-1.9114,2026-09-20,30.3,18.2,0.0,5,23.0,41.0,45,Hot,Dry,Breezy,22.5
+Oujda-Angad,Oriental,34.6867,-1.9114,2026-09-21,29.6,17.2,0.0,5,22.4,40.0,3,Hot,Dry,Breezy,21.32
+Oulad Barhil,Souss-Massa,30.6408,-8.475,2026-09-15,38.2,25.4,0.0,13,14.0,28.1,3,Very Hot,Dry,Breezy,27.88
+Oulad Barhil,Souss-Massa,30.6408,-8.475,2026-09-16,36.5,22.1,0.0,0,26.2,47.5,2,Very Hot,Dry,Breezy,31.85
+Oulad Barhil,Souss-Massa,30.6408,-8.475,2026-09-17,30.1,18.2,0.0,3,31.0,56.2,3,Hot,Dry,Strong Wind,26.25
+Oulad Barhil,Souss-Massa,30.6408,-8.475,2026-09-18,30.3,17.8,0.0,5,26.2,47.2,3,Hot,Dry,Breezy,24.1
+Oulad Barhil,Souss-Massa,30.6408,-8.475,2026-09-19,37.6,20.6,0.0,2,28.5,52.9,2,Very Hot,Dry,Breezy,34.38
+Oulad Barhil,Souss-Massa,30.6408,-8.475,2026-09-20,39.9,22.3,0.0,3,15.4,33.8,2,Very Hot,Dry,Breezy,30.7
+Oulad Barhil,Souss-Massa,30.6408,-8.475,2026-09-21,38.8,21.5,0.0,8,21.3,42.1,2,Very Hot,Dry,Breezy,32.27
+Oulad Tayeb,Fès-Meknès,33.9598,-4.9954,2026-09-15,34.4,23.6,0.0,0,16.1,30.6,2,Very Hot,Dry,Breezy,24.17
+Oulad Tayeb,Fès-Meknès,33.9598,-4.9954,2026-09-16,31.6,21.1,0.0,0,17.1,32.4,1,Hot,Dry,Breezy,21.18
+Oulad Tayeb,Fès-Meknès,33.9598,-4.9954,2026-09-17,28.9,18.2,0.0,0,15.5,30.2,45,Hot,Dry,Breezy,17.0
+Oulad Tayeb,Fès-Meknès,33.9598,-4.9954,2026-09-18,30.4,18.3,0.0,10,12.9,25.9,3,Hot,Dry,Breezy,17.57
+Oulad Tayeb,Fès-Meknès,33.9598,-4.9954,2026-09-19,33.4,19.2,0.0,4,17.3,34.2,3,Very Hot,Dry,Breezy,23.53
+Oulad Tayeb,Fès-Meknès,33.9598,-4.9954,2026-09-20,35.7,21.0,0.0,3,17.4,40.3,1,Very Hot,Dry,Breezy,26.45
+Oulad Tayeb,Fès-Meknès,33.9598,-4.9954,2026-09-21,36.8,22.5,0.0,0,10.9,30.6,2,Very Hot,Dry,Breezy,24.57
+Oulad Teïma,Souss-Massa,30.4,-9.21,2026-09-15,39.6,26.3,0.0,3,18.4,36.4,3,Very Hot,Dry,Breezy,31.83
+Oulad Teïma,Souss-Massa,30.4,-9.21,2026-09-16,35.3,22.0,0.0,0,22.1,44.3,1,Very Hot,Dry,Breezy,28.3
+Oulad Teïma,Souss-Massa,30.4,-9.21,2026-09-17,30.0,20.1,0.0,0,29.2,56.2,2,Hot,Dry,Breezy,25.22
+Oulad Teïma,Souss-Massa,30.4,-9.21,2026-09-18,30.0,19.3,0.0,0,20.7,40.0,1,Hot,Dry,Breezy,20.97
+Oulad Teïma,Souss-Massa,30.4,-9.21,2026-09-19,31.4,19.7,0.0,0,24.7,47.5,45,Hot,Dry,Breezy,24.72
+Oulad Teïma,Souss-Massa,30.4,-9.21,2026-09-20,29.6,20.0,0.0,0,24.9,42.8,2,Hot,Dry,Breezy,22.57
+Oulad Teïma,Souss-Massa,30.4,-9.21,2026-09-21,40.0,22.0,0.0,0,24.0,43.2,1,Extreme Hot,Dry,Breezy,35.12
+Oulad Yaïch,Béni Mellal-Khénifra,32.4167,-6.3333,2026-09-15,38.8,25.5,0.0,3,17.3,30.6,2,Very Hot,Dry,Breezy,30.27
+Oulad Yaïch,Béni Mellal-Khénifra,32.4167,-6.3333,2026-09-16,35.1,21.7,0.0,0,13.5,24.1,0,Very Hot,Dry,Breezy,23.75
+Oulad Yaïch,Béni Mellal-Khénifra,32.4167,-6.3333,2026-09-17,32.0,18.0,0.0,3,13.2,24.1,3,Very Hot,Dry,Breezy,19.73
+Oulad Yaïch,Béni Mellal-Khénifra,32.4167,-6.3333,2026-09-18,33.2,19.1,0.0,9,7.8,16.2,3,Very Hot,Dry,Calm,18.53
+Oulad Yaïch,Béni Mellal-Khénifra,32.4167,-6.3333,2026-09-19,37.6,20.8,0.0,4,9.4,18.4,3,Very Hot,Dry,Calm,24.83
+Oulad Yaïch,Béni Mellal-Khénifra,32.4167,-6.3333,2026-09-20,38.7,26.6,0.0,0,17.0,37.4,3,Very Hot,Dry,Breezy,30.0
+Oulad Yaïch,Béni Mellal-Khénifra,32.4167,-6.3333,2026-09-21,36.7,28.5,0.3,3,22.4,41.8,80,Very Hot,Light Rain,Breezy,30.43
+Qasbat Tadla,Béni Mellal-Khénifra,32.6,-6.26,2026-09-15,38.8,22.9,0.0,5,18.8,34.2,3,Very Hot,Dry,Breezy,31.02
+Qasbat Tadla,Béni Mellal-Khénifra,32.6,-6.26,2026-09-16,34.7,19.0,0.0,0,14.2,29.2,0,Very Hot,Dry,Breezy,23.6
+Qasbat Tadla,Béni Mellal-Khénifra,32.6,-6.26,2026-09-17,32.2,17.6,0.0,5,13.3,25.6,3,Very Hot,Dry,Breezy,20.03
+Qasbat Tadla,Béni Mellal-Khénifra,32.6,-6.26,2026-09-18,33.2,18.4,0.0,10,8.4,16.9,3,Very Hot,Dry,Calm,18.83
+Qasbat Tadla,Béni Mellal-Khénifra,32.6,-6.26,2026-09-19,37.6,20.8,0.0,6,12.8,23.8,3,Very Hot,Dry,Breezy,26.52
+Qasbat Tadla,Béni Mellal-Khénifra,32.6,-6.26,2026-09-20,40.3,25.2,0.0,0,13.3,24.8,3,Extreme Hot,Dry,Breezy,30.15
+Qasbat Tadla,Béni Mellal-Khénifra,32.6,-6.26,2026-09-21,36.8,21.3,0.6,3,13.7,24.5,80,Very Hot,Light Rain,Breezy,26.42
+Rabat,Rabat-Salé-Kénitra,34.0211,-6.8414,2026-09-15,28.3,21.6,0.0,0,12.4,32.0,45,Hot,Dry,Breezy,14.7
+Rabat,Rabat-Salé-Kénitra,34.0211,-6.8414,2026-09-16,26.3,20.8,0.0,0,14.8,37.1,2,Hot,Dry,Breezy,13.4
+Rabat,Rabat-Salé-Kénitra,34.0211,-6.8414,2026-09-17,26.3,18.9,0.0,0,11.8,31.0,3,Hot,Dry,Breezy,11.9
+Rabat,Rabat-Salé-Kénitra,34.0211,-6.8414,2026-09-18,26.0,18.0,0.0,5,11.8,31.3,3,Hot,Dry,Breezy,11.53
+Rabat,Rabat-Salé-Kénitra,34.0211,-6.8414,2026-09-19,29.0,16.8,0.0,3,12.8,32.4,45,Hot,Dry,Breezy,15.78
+Rabat,Rabat-Salé-Kénitra,34.0211,-6.8414,2026-09-20,32.5,20.4,0.0,3,10.6,25.2,2,Very Hot,Dry,Breezy,19.05
+Rabat,Rabat-Salé-Kénitra,34.0211,-6.8414,2026-09-21,28.8,21.9,0.0,0,12.2,29.5,3,Hot,Dry,Breezy,15.22
+Safi,Marrakech-Safi,32.2833,-9.2333,2026-09-15,34.1,22.8,0.0,0,22.0,40.7,3,Very Hot,Dry,Breezy,26.75
+Safi,Marrakech-Safi,32.2833,-9.2333,2026-09-16,27.8,21.2,0.0,0,26.9,48.6,2,Hot,Dry,Breezy,21.32
+Safi,Marrakech-Safi,32.2833,-9.2333,2026-09-17,25.5,19.4,0.0,0,20.2,36.7,3,Hot,Dry,Breezy,15.1
+Safi,Marrakech-Safi,32.2833,-9.2333,2026-09-18,25.8,19.4,0.0,0,20.2,36.0,2,Hot,Dry,Breezy,15.47
+Safi,Marrakech-Safi,32.2833,-9.2333,2026-09-19,27.9,19.2,0.0,2,22.0,39.6,2,Hot,Dry,Breezy,19.0
+Safi,Marrakech-Safi,32.2833,-9.2333,2026-09-20,29.3,22.0,0.0,3,13.1,27.7,2,Hot,Dry,Breezy,16.3
+Safi,Marrakech-Safi,32.2833,-9.2333,2026-09-21,29.8,20.8,0.0,0,11.9,23.0,2,Hot,Dry,Breezy,16.32
+Sale,Rabat-Salé-Kénitra,34.05,-6.8167,2026-09-15,28.2,21.6,0.0,0,12.4,32.0,45,Hot,Dry,Breezy,14.57
+Sale,Rabat-Salé-Kénitra,34.05,-6.8167,2026-09-16,26.3,20.7,0.0,0,14.8,37.1,2,Hot,Dry,Breezy,13.4
+Sale,Rabat-Salé-Kénitra,34.05,-6.8167,2026-09-17,26.2,18.9,0.0,0,11.8,31.0,3,Hot,Dry,Breezy,11.77
+Sale,Rabat-Salé-Kénitra,34.05,-6.8167,2026-09-18,25.9,18.0,0.0,5,11.8,31.3,3,Hot,Dry,Breezy,11.4
+Sale,Rabat-Salé-Kénitra,34.05,-6.8167,2026-09-19,28.9,16.8,0.0,3,12.8,32.4,45,Hot,Dry,Breezy,15.65
+Sale,Rabat-Salé-Kénitra,34.05,-6.8167,2026-09-20,32.4,20.3,0.0,3,10.6,25.2,2,Very Hot,Dry,Breezy,18.92
+Sale,Rabat-Salé-Kénitra,34.05,-6.8167,2026-09-21,28.8,21.8,0.0,0,12.2,29.5,3,Hot,Dry,Breezy,15.22
+Sebt Gzoula,Marrakech-Safi,32.1219,-9.0889,2026-09-15,38.4,24.6,0.0,0,22.1,42.1,3,Very Hot,Dry,Breezy,32.17
+Sebt Gzoula,Marrakech-Safi,32.1219,-9.0889,2026-09-16,31.9,20.7,0.0,0,20.2,38.9,2,Hot,Dry,Breezy,23.1
+Sebt Gzoula,Marrakech-Safi,32.1219,-9.0889,2026-09-17,28.2,18.5,0.0,0,17.1,33.5,3,Hot,Dry,Breezy,16.93
+Sebt Gzoula,Marrakech-Safi,32.1219,-9.0889,2026-09-18,30.3,18.7,0.0,0,17.7,34.2,3,Hot,Dry,Breezy,19.85
+Sebt Gzoula,Marrakech-Safi,32.1219,-9.0889,2026-09-19,33.3,18.7,0.0,0,17.4,33.5,2,Very Hot,Dry,Breezy,23.45
+Sebt Gzoula,Marrakech-Safi,32.1219,-9.0889,2026-09-20,30.4,22.1,0.0,0,14.5,27.7,2,Hot,Dry,Breezy,18.37
+Sebt Gzoula,Marrakech-Safi,32.1219,-9.0889,2026-09-21,31.1,20.5,0.0,0,12.3,24.1,2,Hot,Dry,Breezy,18.15
+Sefrou,Fès-Meknès,33.83,-4.83,2026-09-15,32.6,23.6,0.0,0,17.4,37.8,2,Very Hot,Dry,Breezy,22.57
+Sefrou,Fès-Meknès,33.83,-4.83,2026-09-16,29.6,19.4,0.0,0,18.8,41.0,2,Hot,Dry,Breezy,19.53
+Sefrou,Fès-Meknès,33.83,-4.83,2026-09-17,26.6,18.0,0.0,3,16.4,36.0,3,Hot,Dry,Breezy,14.57
+Sefrou,Fès-Meknès,33.83,-4.83,2026-09-18,27.2,17.4,0.0,10,15.2,33.1,3,Hot,Dry,Breezy,14.72
+Sefrou,Fès-Meknès,33.83,-4.83,2026-09-19,30.5,19.3,0.0,4,20.0,41.8,3,Hot,Dry,Breezy,21.25
+Sefrou,Fès-Meknès,33.83,-4.83,2026-09-20,33.7,22.2,0.0,8,17.9,33.5,2,Very Hot,Dry,Breezy,24.2
+Sefrou,Fès-Meknès,33.83,-4.83,2026-09-21,34.4,19.4,0.0,8,17.7,33.8,2,Very Hot,Dry,Breezy,24.97
+Semara,Laâyoune-Sakia El Hamra,26.7394,-11.6703,2026-09-15,41.0,27.0,0.0,1,28.3,50.0,0,Extreme Hot,Dry,Breezy,38.52
+Semara,Laâyoune-Sakia El Hamra,26.7394,-11.6703,2026-09-16,39.5,25.2,0.0,0,32.4,55.4,0,Very Hot,Dry,Strong Wind,38.7
+Semara,Laâyoune-Sakia El Hamra,26.7394,-11.6703,2026-09-17,31.4,20.2,0.0,0,29.4,50.4,3,Hot,Dry,Breezy,27.07
+Semara,Laâyoune-Sakia El Hamra,26.7394,-11.6703,2026-09-18,30.3,19.8,0.0,0,26.1,45.0,3,Hot,Dry,Breezy,24.05
+Semara,Laâyoune-Sakia El Hamra,26.7394,-11.6703,2026-09-19,32.2,19.1,0.0,0,19.3,32.4,3,Very Hot,Dry,Breezy,23.03
+Semara,Laâyoune-Sakia El Hamra,26.7394,-11.6703,2026-09-20,37.6,17.9,0.0,2,20.0,34.6,3,Very Hot,Dry,Breezy,30.12
+Semara,Laâyoune-Sakia El Hamra,26.7394,-11.6703,2026-09-21,39.6,24.0,0.6,10,19.4,35.3,51,Very Hot,Light Rain,Breezy,32.77
+Settat,Casablanca-Settat,33.0023,-7.6198,2026-09-15,36.2,23.3,0.0,0,22.4,48.2,2,Very Hot,Dry,Breezy,29.58
+Settat,Casablanca-Settat,33.0023,-7.6198,2026-09-16,30.0,19.6,0.0,0,18.1,38.2,2,Hot,Dry,Breezy,19.67
+Settat,Casablanca-Settat,33.0023,-7.6198,2026-09-17,27.9,17.3,0.0,0,18.1,38.9,45,Hot,Dry,Breezy,17.05
+Settat,Casablanca-Settat,33.0023,-7.6198,2026-09-18,29.5,16.7,0.0,3,18.0,37.8,45,Hot,Dry,Breezy,19.0
+Settat,Casablanca-Settat,33.0023,-7.6198,2026-09-19,33.5,16.9,0.0,3,17.7,38.2,2,Very Hot,Dry,Breezy,23.85
+Settat,Casablanca-Settat,33.0023,-7.6198,2026-09-20,38.2,22.6,0.0,0,21.8,43.9,2,Very Hot,Dry,Breezy,31.78
+Settat,Casablanca-Settat,33.0023,-7.6198,2026-09-21,35.2,22.4,0.0,3,17.1,33.5,3,Very Hot,Dry,Breezy,25.68
+Sidi Bennour,Casablanca-Settat,32.655,-8.4292,2026-09-15,37.2,21.1,0.0,3,25.0,43.6,3,Very Hot,Dry,Breezy,32.12
+Sidi Bennour,Casablanca-Settat,32.655,-8.4292,2026-09-16,30.5,18.8,0.0,0,22.1,38.5,2,Hot,Dry,Breezy,22.3
+Sidi Bennour,Casablanca-Settat,32.655,-8.4292,2026-09-17,28.7,17.8,0.0,0,19.4,34.2,3,Hot,Dry,Breezy,18.7
+Sidi Bennour,Casablanca-Settat,32.655,-8.4292,2026-09-18,30.1,17.4,0.0,0,20.2,34.9,45,Hot,Dry,Breezy,20.85
+Sidi Bennour,Casablanca-Settat,32.655,-8.4292,2026-09-19,33.1,16.6,0.0,3,18.4,35.6,2,Very Hot,Dry,Breezy,23.7
+Sidi Bennour,Casablanca-Settat,32.655,-8.4292,2026-09-20,38.9,20.8,0.0,3,19.1,36.0,2,Very Hot,Dry,Breezy,31.3
+Sidi Bennour,Casablanca-Settat,32.655,-8.4292,2026-09-21,35.0,21.6,0.0,0,16.8,31.7,2,Very Hot,Dry,Breezy,25.28
+Sidi Lmokhtar,Marrakech-Safi,31.57,-9.01,2026-09-15,38.5,24.8,0.0,5,21.6,36.4,3,Very Hot,Dry,Breezy,32.05
+Sidi Lmokhtar,Marrakech-Safi,31.57,-9.01,2026-09-16,34.7,21.7,0.0,0,24.4,42.8,1,Very Hot,Dry,Breezy,28.7
+Sidi Lmokhtar,Marrakech-Safi,31.57,-9.01,2026-09-17,29.1,18.0,0.0,0,20.9,34.6,3,Hot,Dry,Breezy,19.95
+Sidi Lmokhtar,Marrakech-Safi,31.57,-9.01,2026-09-18,31.1,18.1,0.0,3,19.0,31.7,3,Hot,Dry,Breezy,21.5
+Sidi Lmokhtar,Marrakech-Safi,31.57,-9.01,2026-09-19,34.6,18.4,0.0,3,13.8,25.6,2,Very Hot,Dry,Breezy,23.28
+Sidi Lmokhtar,Marrakech-Safi,31.57,-9.01,2026-09-20,35.0,24.1,0.0,0,25.7,42.5,2,Very Hot,Dry,Breezy,29.73
+Sidi Lmokhtar,Marrakech-Safi,31.57,-9.01,2026-09-21,35.2,22.2,0.0,3,20.6,34.2,2,Very Hot,Dry,Breezy,27.43
+Sidi Qacem,Rabat-Salé-Kénitra,34.21,-5.7,2026-09-15,35.1,21.8,0.0,0,17.6,40.0,0,Very Hot,Dry,Breezy,25.8
+Sidi Qacem,Rabat-Salé-Kénitra,34.21,-5.7,2026-09-16,31.8,20.8,0.0,0,19.0,40.3,2,Hot,Dry,Breezy,22.38
+Sidi Qacem,Rabat-Salé-Kénitra,34.21,-5.7,2026-09-17,29.6,19.3,0.0,0,14.2,31.3,3,Hot,Dry,Breezy,17.23
+Sidi Qacem,Rabat-Salé-Kénitra,34.21,-5.7,2026-09-18,31.8,18.2,0.0,8,15.9,32.0,3,Hot,Dry,Breezy,20.82
+Sidi Qacem,Rabat-Salé-Kénitra,34.21,-5.7,2026-09-19,36.3,19.0,0.0,3,15.0,34.2,3,Very Hot,Dry,Breezy,26.0
+Sidi Qacem,Rabat-Salé-Kénitra,34.21,-5.7,2026-09-20,39.3,25.0,0.0,0,16.8,34.3,1,Very Hot,Dry,Breezy,30.65
+Sidi Qacem,Rabat-Salé-Kénitra,34.21,-5.7,2026-09-21,39.8,25.2,0.0,0,14.0,37.4,1,Very Hot,Dry,Breezy,29.87
+Sidi Slimane,Rabat-Salé-Kénitra,34.26,-5.93,2026-09-15,35.3,21.0,0.0,0,18.1,37.8,1,Very Hot,Dry,Breezy,26.3
+Sidi Slimane,Rabat-Salé-Kénitra,34.26,-5.93,2026-09-16,31.2,20.3,0.0,0,20.0,41.8,2,Hot,Dry,Breezy,22.12
+Sidi Slimane,Rabat-Salé-Kénitra,34.26,-5.93,2026-09-17,29.7,19.1,0.0,0,15.0,32.0,3,Hot,Dry,Breezy,17.75
+Sidi Slimane,Rabat-Salé-Kénitra,34.26,-5.93,2026-09-18,31.8,17.1,0.0,6,17.3,36.0,45,Hot,Dry,Breezy,21.52
+Sidi Slimane,Rabat-Salé-Kénitra,34.26,-5.93,2026-09-19,37.0,18.1,0.0,3,14.2,31.3,1,Very Hot,Dry,Breezy,26.47
+Sidi Slimane,Rabat-Salé-Kénitra,34.26,-5.93,2026-09-20,39.9,24.1,0.0,0,18.6,36.7,1,Very Hot,Dry,Breezy,32.3
+Sidi Slimane,Rabat-Salé-Kénitra,34.26,-5.93,2026-09-21,39.7,24.5,0.0,0,15.5,33.8,1,Very Hot,Dry,Breezy,30.5
+Sidi Smai’il,Casablanca-Settat,32.8167,-8.5,2026-09-15,35.3,21.5,0.0,0,21.2,39.2,3,Very Hot,Dry,Breezy,27.85
+Sidi Smai’il,Casablanca-Settat,32.8167,-8.5,2026-09-16,28.9,19.8,0.0,0,19.5,34.6,2,Hot,Dry,Breezy,19.0
+Sidi Smai’il,Casablanca-Settat,32.8167,-8.5,2026-09-17,27.6,18.5,0.0,0,17.6,31.3,3,Hot,Dry,Breezy,16.43
+Sidi Smai’il,Casablanca-Settat,32.8167,-8.5,2026-09-18,29.2,18.1,0.0,0,19.5,34.6,3,Hot,Dry,Breezy,19.37
+Sidi Smai’il,Casablanca-Settat,32.8167,-8.5,2026-09-19,31.4,17.4,0.0,0,18.0,34.6,2,Hot,Dry,Breezy,21.38
+Sidi Smai’il,Casablanca-Settat,32.8167,-8.5,2026-09-20,36.2,21.6,0.0,0,18.5,33.5,2,Very Hot,Dry,Breezy,27.62
+Sidi Smai’il,Casablanca-Settat,32.8167,-8.5,2026-09-21,31.8,21.6,0.0,0,15.5,28.4,2,Hot,Dry,Breezy,20.62
+Sidi Yahia El Gharb,Rabat-Salé-Kénitra,34.3058,-6.3058,2026-09-15,31.8,20.8,0.0,0,17.6,32.4,45,Hot,Dry,Breezy,21.68
+Sidi Yahia El Gharb,Rabat-Salé-Kénitra,34.3058,-6.3058,2026-09-16,28.6,20.3,0.0,0,20.6,37.4,2,Hot,Dry,Breezy,19.18
+Sidi Yahia El Gharb,Rabat-Salé-Kénitra,34.3058,-6.3058,2026-09-17,28.0,18.1,0.0,0,15.5,29.2,3,Hot,Dry,Breezy,15.88
+Sidi Yahia El Gharb,Rabat-Salé-Kénitra,34.3058,-6.3058,2026-09-18,29.8,16.2,0.0,3,17.8,31.7,45,Hot,Dry,Breezy,19.28
+Sidi Yahia El Gharb,Rabat-Salé-Kénitra,34.3058,-6.3058,2026-09-19,35.4,16.5,0.0,3,13.9,28.4,1,Very Hot,Dry,Breezy,24.32
+Sidi Yahia El Gharb,Rabat-Salé-Kénitra,34.3058,-6.3058,2026-09-20,39.8,23.5,0.0,0,16.9,32.8,1,Very Hot,Dry,Breezy,31.32
+Sidi Yahia El Gharb,Rabat-Salé-Kénitra,34.3058,-6.3058,2026-09-21,37.4,23.8,0.0,0,19.3,35.6,2,Very Hot,Dry,Breezy,29.53
+Sidi Yahya Zaer,Rabat-Salé-Kénitra,33.7105,-6.8831,2026-09-15,32.6,20.7,0.0,0,18.9,37.8,0,Very Hot,Dry,Breezy,23.33
+Sidi Yahya Zaer,Rabat-Salé-Kénitra,33.7105,-6.8831,2026-09-16,27.6,18.5,0.0,0,20.4,40.7,2,Hot,Dry,Breezy,17.82
+Sidi Yahya Zaer,Rabat-Salé-Kénitra,33.7105,-6.8831,2026-09-17,26.8,16.5,0.0,0,17.7,35.6,3,Hot,Dry,Breezy,15.47
+Sidi Yahya Zaer,Rabat-Salé-Kénitra,33.7105,-6.8831,2026-09-18,28.1,15.3,0.0,5,15.9,32.0,45,Hot,Dry,Breezy,16.2
+Sidi Yahya Zaer,Rabat-Salé-Kénitra,33.7105,-6.8831,2026-09-19,31.9,16.5,0.0,2,16.4,33.5,1,Hot,Dry,Breezy,21.2
+Sidi Yahya Zaer,Rabat-Salé-Kénitra,33.7105,-6.8831,2026-09-20,36.7,20.7,0.0,3,17.6,35.6,2,Very Hot,Dry,Breezy,27.8
+Sidi Yahya Zaer,Rabat-Salé-Kénitra,33.7105,-6.8831,2026-09-21,32.7,20.2,0.0,0,17.2,34.9,2,Very Hot,Dry,Breezy,22.6
+Skhirate,Rabat-Salé-Kénitra,33.85,-7.03,2026-09-15,26.7,21.2,0.0,0,12.5,28.4,45,Hot,Dry,Breezy,12.75
+Skhirate,Rabat-Salé-Kénitra,33.85,-7.03,2026-09-16,25.2,20.4,0.0,0,16.3,34.9,2,Hot,Dry,Breezy,12.78
+Skhirate,Rabat-Salé-Kénitra,33.85,-7.03,2026-09-17,24.8,19.0,0.0,0,12.5,28.4,3,Moderate,Dry,Breezy,10.38
+Skhirate,Rabat-Salé-Kénitra,33.85,-7.03,2026-09-18,24.6,17.6,0.0,5,13.4,30.2,3,Moderate,Dry,Breezy,11.57
+Skhirate,Rabat-Salé-Kénitra,33.85,-7.03,2026-09-19,26.8,16.8,0.0,3,13.6,29.9,2,Hot,Dry,Breezy,13.42
+Skhirate,Rabat-Salé-Kénitra,33.85,-7.03,2026-09-20,30.1,19.9,0.0,3,10.7,22.3,2,Hot,Dry,Breezy,16.1
+Skhirate,Rabat-Salé-Kénitra,33.85,-7.03,2026-09-21,27.1,21.4,0.0,0,12.8,27.0,3,Hot,Dry,Breezy,13.4
+Souk et Tnine Jorf el Mellah,Rabat-Salé-Kénitra,34.4945,-5.5047,2026-09-15,36.0,22.4,0.0,0,19.9,37.1,0,Very Hot,Dry,Breezy,28.07
+Souk et Tnine Jorf el Mellah,Rabat-Salé-Kénitra,34.4945,-5.5047,2026-09-16,31.8,19.5,0.0,0,20.5,37.8,2,Hot,Dry,Breezy,23.12
+Souk et Tnine Jorf el Mellah,Rabat-Salé-Kénitra,34.4945,-5.5047,2026-09-17,30.2,19.1,0.0,1,16.5,30.2,3,Hot,Dry,Breezy,19.12
+Souk et Tnine Jorf el Mellah,Rabat-Salé-Kénitra,34.4945,-5.5047,2026-09-18,32.0,17.2,0.0,8,12.2,20.9,45,Very Hot,Dry,Breezy,19.23
+Souk et Tnine Jorf el Mellah,Rabat-Salé-Kénitra,34.4945,-5.5047,2026-09-19,36.3,18.8,0.0,3,21.1,38.5,3,Very Hot,Dry,Breezy,29.05
+Souk et Tnine Jorf el Mellah,Rabat-Salé-Kénitra,34.4945,-5.5047,2026-09-20,39.1,24.6,0.0,3,20.4,40.1,1,Very Hot,Dry,Breezy,32.2
+Souk et Tnine Jorf el Mellah,Rabat-Salé-Kénitra,34.4945,-5.5047,2026-09-21,39.6,26.1,0.0,3,19.0,36.4,1,Very Hot,Dry,Breezy,32.12
+Souq Sebt Oulad Nemma,Béni Mellal-Khénifra,32.3,-6.7,2026-09-15,39.8,24.6,0.0,3,14.5,28.1,3,Very Hot,Dry,Breezy,30.12
+Souq Sebt Oulad Nemma,Béni Mellal-Khénifra,32.3,-6.7,2026-09-16,35.8,20.9,0.0,0,16.3,28.4,0,Very Hot,Dry,Breezy,26.02
+Souq Sebt Oulad Nemma,Béni Mellal-Khénifra,32.3,-6.7,2026-09-17,32.4,18.2,0.0,3,15.4,27.7,3,Very Hot,Dry,Breezy,21.32
+Souq Sebt Oulad Nemma,Béni Mellal-Khénifra,32.3,-6.7,2026-09-18,33.6,18.7,0.0,13,9.5,18.7,3,Very Hot,Dry,Calm,19.88
+Souq Sebt Oulad Nemma,Béni Mellal-Khénifra,32.3,-6.7,2026-09-19,38.2,20.5,0.0,6,9.0,20.9,3,Very Hot,Dry,Calm,25.38
+Souq Sebt Oulad Nemma,Béni Mellal-Khénifra,32.3,-6.7,2026-09-20,40.4,24.8,0.3,0,8.9,25.9,3,Extreme Hot,Light Rain,Calm,28.3
+Souq Sebt Oulad Nemma,Béni Mellal-Khénifra,32.3,-6.7,2026-09-21,39.1,24.7,0.6,3,12.6,23.0,3,Very Hot,Light Rain,Breezy,28.75
+Tabount,Drâa-Tafilalet,30.9014,-6.9217,2026-09-15,32.0,22.5,0.0,5,14.9,26.3,3,Very Hot,Dry,Breezy,20.57
+Tabount,Drâa-Tafilalet,30.9014,-6.9217,2026-09-16,33.8,20.0,0.0,3,24.2,39.6,1,Very Hot,Dry,Breezy,27.47
+Tabount,Drâa-Tafilalet,30.9014,-6.9217,2026-09-17,32.7,21.0,0.4,33,19.1,33.8,80,Very Hot,Light Rain,Breezy,23.85
+Tabount,Drâa-Tafilalet,30.9014,-6.9217,2026-09-18,32.6,19.5,0.0,15,13.6,23.4,3,Very Hot,Dry,Breezy,20.67
+Tabount,Drâa-Tafilalet,30.9014,-6.9217,2026-09-19,32.7,21.8,0.0,16,13.9,22.7,2,Very Hot,Dry,Breezy,20.95
+Tabount,Drâa-Tafilalet,30.9014,-6.9217,2026-09-20,33.5,23.1,0.0,16,14.7,27.0,2,Very Hot,Dry,Breezy,22.35
+Tabount,Drâa-Tafilalet,30.9014,-6.9217,2026-09-21,34.2,20.7,0.0,5,15.9,33.8,3,Very Hot,Dry,Breezy,23.83
+Tahannawt,Marrakech-Safi,31.3514,-7.9508,2026-09-15,33.2,22.5,0.0,5,20.6,37.8,3,Very Hot,Dry,Breezy,24.93
+Tahannawt,Marrakech-Safi,31.3514,-7.9508,2026-09-16,30.7,18.8,0.0,0,16.5,31.0,1,Hot,Dry,Breezy,19.75
+Tahannawt,Marrakech-Safi,31.3514,-7.9508,2026-09-17,25.8,15.7,0.0,5,13.1,25.9,45,Hot,Dry,Breezy,13.8
+Tahannawt,Marrakech-Safi,31.3514,-7.9508,2026-09-18,28.0,15.6,0.0,8,12.9,25.2,3,Hot,Dry,Breezy,14.57
+Tahannawt,Marrakech-Safi,31.3514,-7.9508,2026-09-19,32.2,18.7,0.0,3,13.5,27.4,3,Very Hot,Dry,Breezy,20.13
+Tahannawt,Marrakech-Safi,31.3514,-7.9508,2026-09-20,35.4,22.4,0.0,8,21.6,36.7,3,Very Hot,Dry,Breezy,28.18
+Tahannawt,Marrakech-Safi,31.3514,-7.9508,2026-09-21,34.0,19.8,0.0,8,16.3,29.2,1,Very Hot,Dry,Breezy,23.78
+Tahla,Fès-Meknès,34.05,-4.42,2026-09-15,35.0,21.0,0.0,0,16.2,32.0,3,Very Hot,Dry,Breezy,24.98
+Tahla,Fès-Meknès,34.05,-4.42,2026-09-16,31.3,19.6,0.0,0,17.3,33.1,1,Hot,Dry,Breezy,20.9
+Tahla,Fès-Meknès,34.05,-4.42,2026-09-17,29.0,17.3,0.0,8,14.8,28.4,3,Hot,Dry,Breezy,16.78
+Tahla,Fès-Meknès,34.05,-4.42,2026-09-18,30.7,17.0,0.0,10,12.3,23.8,3,Hot,Dry,Breezy,17.65
+Tahla,Fès-Meknès,34.05,-4.42,2026-09-19,32.2,19.0,0.0,4,22.0,44.3,2,Very Hot,Dry,Breezy,24.38
+Tahla,Fès-Meknès,34.05,-4.42,2026-09-20,33.9,21.9,0.0,0,16.7,32.0,1,Very Hot,Dry,Breezy,23.85
+Tahla,Fès-Meknès,34.05,-4.42,2026-09-21,34.3,23.7,0.0,0,13.9,25.9,2,Very Hot,Dry,Breezy,22.95
+Tameslouht,Marrakech-Safi,31.5,-8.1,2026-09-15,37.3,25.5,0.0,8,15.5,26.6,3,Very Hot,Dry,Breezy,27.5
+Tameslouht,Marrakech-Safi,31.5,-8.1,2026-09-16,34.4,21.9,0.0,0,20.3,32.8,1,Very Hot,Dry,Breezy,26.27
+Tameslouht,Marrakech-Safi,31.5,-8.1,2026-09-17,29.3,18.7,0.0,5,13.1,22.3,3,Hot,Dry,Breezy,16.3
+Tameslouht,Marrakech-Safi,31.5,-8.1,2026-09-18,31.1,18.5,0.0,5,10.7,18.7,3,Hot,Dry,Breezy,17.35
+Tameslouht,Marrakech-Safi,31.5,-8.1,2026-09-19,35.5,19.8,0.0,4,11.7,20.2,3,Very Hot,Dry,Breezy,23.35
+Tameslouht,Marrakech-Safi,31.5,-8.1,2026-09-20,38.8,24.0,0.0,5,21.3,52.6,3,Very Hot,Dry,Breezy,32.27
+Tameslouht,Marrakech-Safi,31.5,-8.1,2026-09-21,36.6,24.4,0.0,3,17.6,33.1,1,Very Hot,Dry,Breezy,27.68
+Tan-Tan,Guelmim-Oued Noun,28.4333,-11.1,2026-09-15,36.3,23.4,0.0,0,19.0,36.7,0,Very Hot,Dry,Breezy,28.0
+Tan-Tan,Guelmim-Oued Noun,28.4333,-11.1,2026-09-16,30.9,20.5,0.0,0,25.1,46.4,0,Hot,Dry,Breezy,24.3
+Tan-Tan,Guelmim-Oued Noun,28.4333,-11.1,2026-09-17,25.5,20.1,0.0,0,32.4,57.2,3,Hot,Dry,Strong Wind,21.2
+Tan-Tan,Guelmim-Oued Noun,28.4333,-11.1,2026-09-18,25.7,19.8,0.1,2,26.9,49.0,51,Hot,Light Rain,Breezy,18.77
+Tan-Tan,Guelmim-Oued Noun,28.4333,-11.1,2026-09-19,25.4,19.5,0.0,1,21.6,42.8,3,Hot,Dry,Breezy,15.68
+Tan-Tan,Guelmim-Oued Noun,28.4333,-11.1,2026-09-20,29.8,18.3,0.0,0,17.4,34.6,3,Hot,Dry,Breezy,19.07
+Tan-Tan,Guelmim-Oued Noun,28.4333,-11.1,2026-09-21,34.5,18.2,0.0,4,16.3,40.0,0,Very Hot,Dry,Breezy,24.4
+Tangier,Tanger-Tétouan-Al Hoceïma,35.7767,-5.8039,2026-09-15,30.9,21.5,0.0,0,13.2,30.2,1,Hot,Dry,Breezy,18.35
+Tangier,Tanger-Tétouan-Al Hoceïma,35.7767,-5.8039,2026-09-16,26.5,18.1,0.0,0,17.2,41.4,3,Hot,Dry,Breezy,14.85
+Tangier,Tanger-Tétouan-Al Hoceïma,35.7767,-5.8039,2026-09-17,26.9,16.4,0.0,0,11.2,27.4,3,Hot,Dry,Breezy,12.35
+Tangier,Tanger-Tétouan-Al Hoceïma,35.7767,-5.8039,2026-09-18,28.3,19.2,0.0,3,17.9,42.5,3,Hot,Dry,Breezy,17.45
+Tangier,Tanger-Tétouan-Al Hoceïma,35.7767,-5.8039,2026-09-19,28.0,21.9,0.0,0,29.0,70.2,3,Hot,Dry,Breezy,22.62
+Tangier,Tanger-Tétouan-Al Hoceïma,35.7767,-5.8039,2026-09-20,26.8,23.0,0.0,0,42.5,82.1,1,Hot,Dry,Strong Wind,27.88
+Tangier,Tanger-Tétouan-Al Hoceïma,35.7767,-5.8039,2026-09-21,26.2,22.2,0.0,0,40.0,77.4,1,Hot,Dry,Strong Wind,25.87
+Taourirt,Oriental,34.41,-2.89,2026-09-15,32.8,19.0,0.0,0,22.0,35.6,3,Very Hot,Dry,Breezy,25.12
+Taourirt,Oriental,34.41,-2.89,2026-09-16,34.7,18.9,0.0,0,22.6,36.7,2,Very Hot,Dry,Breezy,27.8
+Taourirt,Oriental,34.41,-2.89,2026-09-17,30.5,19.3,0.0,8,28.6,48.2,3,Hot,Dry,Breezy,25.55
+Taourirt,Oriental,34.41,-2.89,2026-09-18,29.1,19.9,0.0,13,28.6,47.2,3,Hot,Dry,Breezy,23.8
+Taourirt,Oriental,34.41,-2.89,2026-09-19,29.2,19.0,0.0,5,28.9,50.8,3,Hot,Dry,Breezy,24.07
+Taourirt,Oriental,34.41,-2.89,2026-09-20,30.5,20.3,0.0,1,24.2,42.5,3,Hot,Dry,Breezy,23.35
+Taourirt,Oriental,34.41,-2.89,2026-09-21,30.3,18.9,0.0,0,25.3,41.8,2,Hot,Dry,Breezy,23.65
+Taroudannt,Souss-Massa,30.4711,-8.8778,2026-09-15,41.1,27.7,0.0,10,18.6,40.3,3,Extreme Hot,Dry,Breezy,33.8
+Taroudannt,Souss-Massa,30.4711,-8.8778,2026-09-16,37.1,24.3,0.0,0,21.9,43.6,1,Very Hot,Dry,Breezy,30.45
+Taroudannt,Souss-Massa,30.4711,-8.8778,2026-09-17,30.9,19.5,0.0,0,25.6,52.6,2,Hot,Dry,Breezy,24.55
+Taroudannt,Souss-Massa,30.4711,-8.8778,2026-09-18,31.1,18.7,0.0,3,19.7,40.0,3,Hot,Dry,Breezy,21.85
+Taroudannt,Souss-Massa,30.4711,-8.8778,2026-09-19,33.8,19.9,0.0,0,23.4,49.7,1,Very Hot,Dry,Breezy,27.07
+Taroudannt,Souss-Massa,30.4711,-8.8778,2026-09-20,33.5,21.7,0.0,0,24.2,42.8,1,Very Hot,Dry,Breezy,27.1
+Taroudannt,Souss-Massa,30.4711,-8.8778,2026-09-21,40.7,20.8,0.0,5,21.6,45.7,1,Extreme Hot,Dry,Breezy,34.8
+Taza,Fès-Meknès,34.2144,-4.0088,2026-09-15,33.5,19.5,0.0,0,12.6,25.9,3,Very Hot,Dry,Breezy,21.3
+Taza,Fès-Meknès,34.2144,-4.0088,2026-09-16,31.1,20.0,0.0,0,24.2,50.4,1,Hot,Dry,Breezy,24.1
+Taza,Fès-Meknès,34.2144,-4.0088,2026-09-17,30.2,17.7,0.0,5,12.7,28.4,3,Hot,Dry,Breezy,17.22
+Taza,Fès-Meknès,34.2144,-4.0088,2026-09-18,28.8,18.2,0.0,5,17.3,35.6,3,Hot,Dry,Breezy,17.78
+Taza,Fès-Meknès,34.2144,-4.0088,2026-09-19,29.3,18.7,0.0,5,24.1,50.0,3,Hot,Dry,Breezy,21.8
+Taza,Fès-Meknès,34.2144,-4.0088,2026-09-20,30.4,19.7,0.0,3,23.2,46.8,3,Hot,Dry,Breezy,22.73
+Taza,Fès-Meknès,34.2144,-4.0088,2026-09-21,30.9,19.6,0.0,3,22.0,40.0,2,Hot,Dry,Breezy,22.75
+Temara,Rabat-Salé-Kénitra,33.9234,-6.9076,2026-09-15,28.2,21.4,0.0,0,11.9,32.0,45,Hot,Dry,Breezy,14.32
+Temara,Rabat-Salé-Kénitra,33.9234,-6.9076,2026-09-16,26.0,20.3,0.0,0,15.0,38.5,2,Hot,Dry,Breezy,13.12
+Temara,Rabat-Salé-Kénitra,33.9234,-6.9076,2026-09-17,25.9,18.6,0.0,0,12.3,32.8,3,Hot,Dry,Breezy,11.65
+Temara,Rabat-Salé-Kénitra,33.9234,-6.9076,2026-09-18,25.7,17.4,0.0,5,11.4,31.3,3,Hot,Dry,Breezy,10.95
+Temara,Rabat-Salé-Kénitra,33.9234,-6.9076,2026-09-19,28.9,16.2,0.0,3,12.4,32.4,1,Hot,Dry,Breezy,15.45
+Temara,Rabat-Salé-Kénitra,33.9234,-6.9076,2026-09-20,30.0,20.4,0.0,3,10.7,22.3,2,Hot,Dry,Breezy,15.97
+Temara,Rabat-Salé-Kénitra,33.9234,-6.9076,2026-09-21,27.0,21.3,0.0,0,12.8,27.0,3,Hot,Dry,Breezy,13.28
+Temsia,Souss-Massa,30.3633,-9.4144,2026-09-15,36.6,26.0,0.0,3,15.0,34.9,3,Very Hot,Dry,Breezy,26.38
+Temsia,Souss-Massa,30.3633,-9.4144,2026-09-16,31.6,22.2,0.0,0,16.9,37.1,1,Hot,Dry,Breezy,21.08
+Temsia,Souss-Massa,30.3633,-9.4144,2026-09-17,29.0,21.0,0.0,0,24.3,51.1,3,Hot,Dry,Breezy,21.52
+Temsia,Souss-Massa,30.3633,-9.4144,2026-09-18,27.9,20.2,0.0,0,19.4,42.5,3,Hot,Dry,Breezy,17.7
+Temsia,Souss-Massa,30.3633,-9.4144,2026-09-19,28.6,20.5,0.0,0,22.4,47.2,2,Hot,Dry,Breezy,20.08
+Temsia,Souss-Massa,30.3633,-9.4144,2026-09-20,30.1,20.3,0.0,0,24.9,42.8,2,Hot,Dry,Breezy,23.2
+Temsia,Souss-Massa,30.3633,-9.4144,2026-09-21,40.5,22.5,0.0,0,24.0,43.2,1,Extreme Hot,Dry,Breezy,35.75
+Tifariti,Laâyoune-Sakia El Hamra,26.158,-10.567,2026-09-15,37.0,26.0,0.0,8,18.4,26.3,1,Very Hot,Dry,Breezy,28.57
+Tifariti,Laâyoune-Sakia El Hamra,26.158,-10.567,2026-09-16,38.4,23.4,0.0,0,39.3,58.3,0,Very Hot,Dry,Strong Wind,40.77
+Tifariti,Laâyoune-Sakia El Hamra,26.158,-10.567,2026-09-17,31.5,18.0,0.0,0,36.8,54.7,0,Hot,Dry,Strong Wind,30.9
+Tifariti,Laâyoune-Sakia El Hamra,26.158,-10.567,2026-09-18,29.7,16.4,0.0,0,35.9,53.3,3,Hot,Dry,Strong Wind,28.2
+Tifariti,Laâyoune-Sakia El Hamra,26.158,-10.567,2026-09-19,31.5,16.3,0.0,0,24.5,38.2,3,Hot,Dry,Breezy,24.75
+Tifariti,Laâyoune-Sakia El Hamra,26.158,-10.567,2026-09-20,37.8,18.7,0.0,12,16.4,30.6,0,Very Hot,Dry,Breezy,28.57
+Tifariti,Laâyoune-Sakia El Hamra,26.158,-10.567,2026-09-21,36.6,25.1,0.0,18,17.7,27.0,1,Very Hot,Dry,Breezy,27.73
+Tiflet,Rabat-Salé-Kénitra,33.9,-6.33,2026-09-15,33.7,22.2,0.0,0,17.5,35.6,0,Very Hot,Dry,Breezy,24.0
+Tiflet,Rabat-Salé-Kénitra,33.9,-6.33,2026-09-16,29.5,19.1,0.0,0,19.1,38.5,2,Hot,Dry,Breezy,19.55
+Tiflet,Rabat-Salé-Kénitra,33.9,-6.33,2026-09-17,27.8,16.4,0.0,0,15.5,31.3,3,Hot,Dry,Breezy,15.62
+Tiflet,Rabat-Salé-Kénitra,33.9,-6.33,2026-09-18,29.5,15.8,0.0,5,14.8,29.5,45,Hot,Dry,Breezy,17.4
+Tiflet,Rabat-Salé-Kénitra,33.9,-6.33,2026-09-19,34.3,17.8,0.0,3,15.1,33.5,2,Very Hot,Dry,Breezy,23.55
+Tiflet,Rabat-Salé-Kénitra,33.9,-6.33,2026-09-20,38.5,21.6,0.0,3,17.3,37.4,2,Very Hot,Dry,Breezy,29.9
+Tiflet,Rabat-Salé-Kénitra,33.9,-6.33,2026-09-21,36.4,21.9,0.0,3,18.8,36.7,3,Very Hot,Dry,Breezy,28.02
+Tineghir,Drâa-Tafilalet,31.5147,-5.5328,2026-09-15,32.4,22.7,0.0,18,22.5,56.2,3,Very Hot,Dry,Breezy,24.87
+Tineghir,Drâa-Tafilalet,31.5147,-5.5328,2026-09-16,32.1,19.9,0.0,5,26.8,44.6,3,Very Hot,Dry,Breezy,26.65
+Tineghir,Drâa-Tafilalet,31.5147,-5.5328,2026-09-17,29.6,20.7,1.0,48,23.6,36.0,80,Hot,Light Rain,Breezy,22.68
+Tineghir,Drâa-Tafilalet,31.5147,-5.5328,2026-09-18,30.6,18.4,0.0,55,19.9,31.0,3,Hot,Dry,Breezy,21.32
+Tineghir,Drâa-Tafilalet,31.5147,-5.5328,2026-09-19,30.3,21.4,0.0,33,19.4,29.2,3,Hot,Dry,Breezy,20.7
+Tineghir,Drâa-Tafilalet,31.5147,-5.5328,2026-09-20,31.3,22.3,0.0,23,16.6,24.8,3,Hot,Dry,Breezy,20.55
+Tineghir,Drâa-Tafilalet,31.5147,-5.5328,2026-09-21,31.7,21.0,0.6,25,13.1,26.3,80,Hot,Light Rain,Breezy,19.75
+Tit Mellil,Casablanca-Settat,33.5533,-7.4822,2026-09-15,30.0,21.5,0.0,0,12.8,34.2,45,Hot,Dry,Breezy,17.03
+Tit Mellil,Casablanca-Settat,33.5533,-7.4822,2026-09-16,26.3,20.4,0.0,0,14.7,37.4,2,Hot,Dry,Breezy,13.35
+Tit Mellil,Casablanca-Settat,33.5533,-7.4822,2026-09-17,26.3,19.5,0.0,0,12.9,35.3,3,Hot,Dry,Breezy,12.45
+Tit Mellil,Casablanca-Settat,33.5533,-7.4822,2026-09-18,26.0,18.1,0.0,3,14.5,37.8,3,Hot,Dry,Breezy,12.88
+Tit Mellil,Casablanca-Settat,33.5533,-7.4822,2026-09-19,27.5,18.3,0.0,2,13.3,35.3,2,Hot,Dry,Breezy,14.15
+Tit Mellil,Casablanca-Settat,33.5533,-7.4822,2026-09-20,31.2,21.4,0.0,3,12.0,31.0,2,Hot,Dry,Breezy,18.12
+Tit Mellil,Casablanca-Settat,33.5533,-7.4822,2026-09-21,30.0,21.5,0.0,0,13.4,34.2,2,Hot,Dry,Breezy,17.33
+Tiznit,Souss-Massa,29.7,-9.7269,2026-09-15,36.2,26.7,0.0,0,18.1,32.4,1,Very Hot,Dry,Breezy,27.43
+Tiznit,Souss-Massa,29.7,-9.7269,2026-09-16,32.7,22.1,0.0,0,22.5,37.1,0,Very Hot,Dry,Breezy,25.25
+Tiznit,Souss-Massa,29.7,-9.7269,2026-09-17,23.6,19.7,0.0,0,23.0,38.5,3,Moderate,Dry,Breezy,14.13
+Tiznit,Souss-Massa,29.7,-9.7269,2026-09-18,25.8,19.8,0.0,0,21.8,36.4,3,Hot,Dry,Breezy,16.28
+Tiznit,Souss-Massa,29.7,-9.7269,2026-09-19,27.6,20.1,0.0,0,15.7,27.4,1,Hot,Dry,Breezy,15.47
+Tiznit,Souss-Massa,29.7,-9.7269,2026-09-20,27.4,20.9,0.0,0,13.7,24.1,1,Hot,Dry,Breezy,14.22
+Tiznit,Souss-Massa,29.7,-9.7269,2026-09-21,34.8,20.2,0.0,0,12.3,22.0,0,Very Hot,Dry,Breezy,22.77
+Tétouan,Tanger-Tétouan-Al Hoceïma,35.5667,-5.3667,2026-09-15,29.4,21.2,0.0,0,12.2,32.0,2,Hot,Dry,Breezy,15.97
+Tétouan,Tanger-Tétouan-Al Hoceïma,35.5667,-5.3667,2026-09-16,33.3,19.4,0.0,0,24.9,58.0,3,Very Hot,Dry,Breezy,27.2
+Tétouan,Tanger-Tétouan-Al Hoceïma,35.5667,-5.3667,2026-09-17,28.0,15.1,0.0,0,11.0,27.4,3,Hot,Dry,Breezy,13.63
+Tétouan,Tanger-Tétouan-Al Hoceïma,35.5667,-5.3667,2026-09-18,26.7,19.5,0.0,8,15.5,40.3,3,Hot,Dry,Breezy,14.25
+Tétouan,Tanger-Tétouan-Al Hoceïma,35.5667,-5.3667,2026-09-19,27.0,22.0,0.0,5,30.0,71.6,2,Hot,Dry,Breezy,21.88
+Tétouan,Tanger-Tétouan-Al Hoceïma,35.5667,-5.3667,2026-09-20,26.4,22.6,0.0,5,36.4,77.8,2,Hot,Dry,Strong Wind,24.32
+Tétouan,Tanger-Tétouan-Al Hoceïma,35.5667,-5.3667,2026-09-21,26.5,22.3,0.0,0,32.4,67.3,2,Hot,Dry,Strong Wind,22.45
+Warzat,Drâa-Tafilalet,30.9167,-6.9167,2026-09-15,31.6,21.9,0.0,5,15.7,27.0,3,Hot,Dry,Breezy,20.48
+Warzat,Drâa-Tafilalet,30.9167,-6.9167,2026-09-16,33.5,19.0,0.0,3,23.5,41.0,1,Very Hot,Dry,Breezy,26.75
+Warzat,Drâa-Tafilalet,30.9167,-6.9167,2026-09-17,32.3,20.2,0.5,33,14.1,25.9,80,Very Hot,Light Rain,Breezy,20.92
+Warzat,Drâa-Tafilalet,30.9167,-6.9167,2026-09-18,32.5,18.9,0.0,15,19.0,33.1,3,Very Hot,Dry,Breezy,23.25
+Warzat,Drâa-Tafilalet,30.9167,-6.9167,2026-09-19,32.4,21.3,0.0,16,13.2,23.8,2,Very Hot,Dry,Breezy,20.22
+Warzat,Drâa-Tafilalet,30.9167,-6.9167,2026-09-20,33.6,23.4,0.0,16,14.7,27.0,2,Very Hot,Dry,Breezy,22.48
+Warzat,Drâa-Tafilalet,30.9167,-6.9167,2026-09-21,34.3,20.8,0.0,5,15.9,33.8,3,Very Hot,Dry,Breezy,23.95
+Youssoufia,Marrakech-Safi,32.25,-8.53,2026-09-15,37.4,24.6,0.0,3,22.3,46.4,3,Very Hot,Dry,Breezy,31.02
+Youssoufia,Marrakech-Safi,32.25,-8.53,2026-09-16,32.1,19.9,0.0,0,20.0,41.8,2,Very Hot,Dry,Breezy,23.25
+Youssoufia,Marrakech-Safi,32.25,-8.53,2026-09-17,28.6,17.5,0.0,0,16.9,36.0,3,Hot,Dry,Breezy,17.33
+Youssoufia,Marrakech-Safi,32.25,-8.53,2026-09-18,30.5,17.9,0.0,0,16.6,34.6,2,Hot,Dry,Breezy,19.55
+Youssoufia,Marrakech-Safi,32.25,-8.53,2026-09-19,33.7,17.1,0.0,3,17.1,36.4,45,Very Hot,Dry,Breezy,23.8
+Youssoufia,Marrakech-Safi,32.25,-8.53,2026-09-20,38.9,23.1,0.0,3,20.2,40.7,3,Very Hot,Dry,Breezy,31.85
+Youssoufia,Marrakech-Safi,32.25,-8.53,2026-09-21,35.6,22.5,0.0,0,20.1,37.1,3,Very Hot,Dry,Breezy,27.68
+Zagora,Drâa-Tafilalet,30.3316,-5.8376,2026-09-15,36.7,26.2,0.0,5,16.9,27.4,3,Very Hot,Dry,Breezy,27.45
+Zagora,Drâa-Tafilalet,30.3316,-5.8376,2026-09-16,36.9,23.6,0.0,5,13.2,22.0,2,Very Hot,Dry,Breezy,25.85
+Zagora,Drâa-Tafilalet,30.3316,-5.8376,2026-09-17,34.1,25.9,0.1,15,18.7,33.5,3,Very Hot,Light Rain,Breezy,25.18
+Zagora,Drâa-Tafilalet,30.3316,-5.8376,2026-09-18,35.4,23.9,0.0,10,9.3,18.4,3,Very Hot,Dry,Calm,22.02
+Zagora,Drâa-Tafilalet,30.3316,-5.8376,2026-09-19,36.0,25.6,0.0,8,20.3,31.7,2,Very Hot,Dry,Breezy,28.27
+Zagora,Drâa-Tafilalet,30.3316,-5.8376,2026-09-20,36.6,25.4,0.0,3,21.9,34.2,1,Very Hot,Dry,Breezy,29.83
+Zagora,Drâa-Tafilalet,30.3316,-5.8376,2026-09-21,37.4,24.0,0.0,3,17.6,39.6,3,Very Hot,Dry,Breezy,28.68
+Zawyat ech Cheïkh,Béni Mellal-Khénifra,32.6541,-5.9214,2026-09-15,36.3,20.5,0.0,5,18.3,33.1,3,Very Hot,Dry,Breezy,27.65
+Zawyat ech Cheïkh,Béni Mellal-Khénifra,32.6541,-5.9214,2026-09-16,32.3,17.6,0.0,0,13.0,24.5,1,Very Hot,Dry,Breezy,20.0
+Zawyat ech Cheïkh,Béni Mellal-Khénifra,32.6541,-5.9214,2026-09-17,30.3,16.6,0.0,3,12.5,23.4,3,Hot,Dry,Breezy,17.25
+Zawyat ech Cheïkh,Béni Mellal-Khénifra,32.6541,-5.9214,2026-09-18,31.3,16.1,0.0,15,10.9,20.9,3,Hot,Dry,Breezy,17.7
+Zawyat ech Cheïkh,Béni Mellal-Khénifra,32.6541,-5.9214,2026-09-19,35.3,18.4,0.0,5,13.3,25.9,3,Very Hot,Dry,Breezy,23.9
+Zawyat ech Cheïkh,Béni Mellal-Khénifra,32.6541,-5.9214,2026-09-20,38.0,22.8,0.0,3,16.8,30.6,3,Very Hot,Dry,Breezy,29.03
+Zawyat ech Cheïkh,Béni Mellal-Khénifra,32.6541,-5.9214,2026-09-21,35.3,22.7,0.9,3,15.8,31.7,3,Very Hot,Light Rain,Breezy,25.82
+Zaïo,Oriental,34.9396,-2.7334,2026-09-15,30.4,18.6,0.0,0,9.7,23.4,3,Hot,Dry,Calm,15.97
+Zaïo,Oriental,34.9396,-2.7334,2026-09-16,33.7,19.8,0.0,0,14.5,31.7,2,Very Hot,Dry,Breezy,22.5
+Zaïo,Oriental,34.9396,-2.7334,2026-09-17,27.8,19.1,0.0,5,17.8,40.0,3,Hot,Dry,Breezy,16.78
+Zaïo,Oriental,34.9396,-2.7334,2026-09-18,27.6,20.0,0.0,8,15.6,34.2,45,Hot,Dry,Breezy,15.43
+Zaïo,Oriental,34.9396,-2.7334,2026-09-19,27.9,19.6,0.0,6,24.4,49.3,45,Hot,Dry,Breezy,20.2
+Zaïo,Oriental,34.9396,-2.7334,2026-09-20,28.2,20.1,0.0,3,23.6,42.8,45,Hot,Dry,Breezy,20.18
+Zaïo,Oriental,34.9396,-2.7334,2026-09-21,27.8,17.4,0.0,0,23.2,41.4,45,Hot,Dry,Breezy,19.48
+Zeghanghane,Oriental,35.1575,-3.0017,2026-09-15,28.4,19.7,0.0,0,12.0,24.8,45,Hot,Dry,Breezy,14.62
+Zeghanghane,Oriental,35.1575,-3.0017,2026-09-16,32.6,19.0,0.0,0,9.8,22.0,2,Very Hot,Dry,Calm,18.78
+Zeghanghane,Oriental,35.1575,-3.0017,2026-09-17,27.5,18.7,0.0,3,17.8,37.1,3,Hot,Dry,Breezy,16.4
+Zeghanghane,Oriental,35.1575,-3.0017,2026-09-18,26.1,21.1,0.3,10,17.4,33.8,45,Hot,Light Rain,Breezy,14.68
+Zeghanghane,Oriental,35.1575,-3.0017,2026-09-19,26.3,21.0,0.0,8,25.4,51.1,3,Hot,Dry,Breezy,18.7
+Zeghanghane,Oriental,35.1575,-3.0017,2026-09-20,26.3,22.0,0.0,5,24.7,46.1,3,Hot,Dry,Breezy,18.35
+Zeghanghane,Oriental,35.1575,-3.0017,2026-09-21,26.8,20.9,0.0,0,23.1,42.5,2,Hot,Dry,Breezy,18.18
