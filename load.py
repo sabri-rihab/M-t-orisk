@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Float, Date, ForeignKey, Enum, create_engine
+from sqlalchemy import Column,text, Integer, String, Float, Date, ForeignKey, Enum, create_engine
 from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 import os
 import pandas as pd
@@ -203,6 +203,13 @@ def load_to_postgres(df_gold: pd.DataFrame, db_url: str):
         df_weather = df_gold[weather_cols]
 
         # 6. Insert into weather_detail
+        for _, row in df_weather[['city_id', 'forecast_date']].drop_duplicates().iterrows():
+            session.execute(
+                text("DELETE FROM weather_detail WHERE city_id = :city_id AND forecast_date = :forecast_date"),
+                {"city_id": int(row['city_id']), "forecast_date": str(row['forecast_date'])}
+            )
+        session.commit()
+        
         df_weather.to_sql(
             'weather_detail', 
             con=engine, 
