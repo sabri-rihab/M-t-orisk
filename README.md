@@ -143,4 +143,31 @@ $$\text{Risk Score} = \left( 0.375 \times \text{Rain Risk} + 0.375 \times \text{
 2. **Wind Sub-Score (37.5% Weight)**: Scaled linearly up to 75 km/h (Beaufort Gale force). Wind destabilizes two-wheeler balance and creates lateral hazards.
 3. **Temperature Sub-Score (25% Weight)**: Measures deviation from the 21.5°C human optimal comfort midpoint. Extreme heat (>40°C) or freezing (<0°C) induces driver fatigue and thermal stress.
 
-```
+
+## 📸 Dashboard Screenshots
+
+### 1. Header & Key Performance Indicators (KPIs)
+![Dashboard Header](screenshots/header.png)
+
+### 2. Sidebar Filters
+![Sidebar Filters](screenshots/filter.png)
+
+### 3. Moroccan Cities Weather Map
+![Moroccan Cities Weather Map](screenshots/map.png)
+
+### 4. High Weather Risk Alerts Table
+![High Risk Alerts Table](screenshots/risk_score_table.png)
+
+### 5. Top 5 Operational Insights
+* **Top Hottest Cities**
+  ![Top Hottest Cities](screenshots/hottest_cities.png)
+* **Top Rainiest Cities**
+  ![Top Rainiest Cities](screenshots/rainiest_cities.png)
+* **Highest Risk Cities**
+  ![Highest Risk Cities](screenshots/highest_risk.png)
+
+### 6. Interactive Weather Trends & Forecasts
+![Interactive Weather Trends](screenshots/weather_variation.png)
+
+### 7. Full Database Records Table
+![Full Weather Database Records](screenshots/all_data_table.png)
