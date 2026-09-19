@@ -1,8 +1,8 @@
-from sqlalchemy import Column,text, Integer, String, Float, Date, ForeignKey, Enum, create_engine
+from sqlalchemy import Column,text, Integer, String, Float, Date, ForeignKey, Enum, create_engine, DateTime
 from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 import os
 import pandas as pd
-
+import datetime
  
 Base = declarative_base()
 
@@ -118,6 +118,7 @@ class WeatherDetail(Base):
     rain_category = Column(Enum(*RAIN_CATEGORIES, name="rain_enum"))
     wind_category = Column(Enum(*WIND_CATEGORIES, name="wind_enum"))
     risk_score = Column(Float)
+    extracted_at = Column(DateTime, default=datetime.datetime.now)
 
     city = relationship("City", back_populates="weather_details")
 
@@ -132,6 +133,7 @@ def transform_silver_to_gold(df: pd.DataFrame) -> pd.DataFrame:
     df_gold['temp_category'] = df_gold['temperature_2m_max'].apply(get_temp_category)
     df_gold['rain_category'] = df_gold['precipitation_sum'].apply(get_rain_category)
     df_gold['wind_category'] = df_gold['wind_speed_10m_max'].apply(get_wind_category)
+    df_gold['extracted_at'] = datetime.datetime.now()
 
     # adding the risk_score column
     df_gold['risk_score'] = df_gold.apply(

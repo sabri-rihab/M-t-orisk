@@ -47,11 +47,11 @@ def transform() :
 
     # ________________________________
     # drop duplicated rows
-    # we expect to 1 (city, date) not more
     silver_df = silver_df.drop_duplicates(subset=['city', 'forecast_date'])
 
     #_____________________________________
-    # turn nueric values from str to numiric
+    # turn nueric values from str to numiric 
+    # replace nonne values
     numeric_cols = [c for c in weather_column if c != 'time']
     for col in numeric_cols:
         silver_df[col] = pd.to_numeric(silver_df[col], errors='coerce')
