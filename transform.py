@@ -44,7 +44,8 @@ def transform() :
 
     silver_df["forecast_date"] = silver_df["forecast_date"].dt.strftime('%Y-%m-%d')
 
-    #_____________________________________
+
+    # ________________________________
     # drop duplicated rows
     # we expect to 1 (city, date) not more
     silver_df = silver_df.drop_duplicates(subset=['city', 'forecast_date'])
@@ -57,8 +58,21 @@ def transform() :
         silver_df[col] = silver_df.groupby('city')[col]\
                         .transform(lambda g: g.interpolate(method='linear').ffill().bfill())
 
+
+
+
+    # ___________________________________________________
+    # ________________( quality check )__________________
+    def validate_data_quality(df):
+        assert df["temperature_2m_max"].between(-20, 60).all(), ("Data Quality Error: Extreme temperature out of bounds!")
+        assert (df["precipitation_sum"].ge(0).all()), "Data Quality Error: Negative precipitation detected!"
+        assert (df["wind_speed_10m_max"].ge(0).all()), "Data Quality Error: Negative wind speed detected!"
+        assert (df["forecast_date"].notnull().all()), "Data Quality Error: Null forecast dates found!"
+
+        print("checks passed successfully ^^ ")
     #_____________________________________
     #save the data as .csv files (saved in Silver)
+    validate_data_quality(silver_df)
     silver_df.to_csv('Silver/silver_data.csv', index=False)
     print('silver stage : done!')
 
